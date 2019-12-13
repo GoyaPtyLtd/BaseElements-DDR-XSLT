@@ -1,0 +1,2389 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<FunctionList>
+	  <Function name="Abs" version="7"/>
+	  <Function name="Assoluto" version="7"/>
+
+	  <Function name="AccountExtendedPrivileges" version="11"/>
+	  <Function name="UitgebreidePrivilegesAccount" version="11"/>
+	  <Function name="PrivilègesEtendusCompte" version="11"/>
+	  <Function name="KontoErweiterteZugriffsrechte" version="11"/>
+	  <Function name="PrivilegiEstesiAccount" version="11"/>
+	  <Function name="アカウント拡張アクセス権" version="11"/>
+	  <Function name="KontoUtökadBehörighet" version="11"/>
+	  <Function name="帐户扩展权限" version="11"/>
+	  <Function name="帳戶擴充的權限" version="11"/>
+
+	  <Function name="AccountName" version="7"/>
+	  <Function name="AccountNaam" version="7"/>
+	  <Function name="NomCompte" version="7"/>
+	  <Function name="Kontoname" version="7"/>
+	  <Function name="NomeAccount" version="7"/>
+	  <Function name="アカウント名" version="7"/>
+	  <Function name="Kontonamn" version="7"/>
+	  <Function name="帐号名" version="7"/>
+	  <Function name="帳戶名稱" version="7"/>
+
+	  <Function name="AccountPrivilegeSetName" version="11"/>
+	  <Function name="NaamPrivilegesetAccount" version="11"/>
+	  <Function name="NomPrivilègesCompte" version="11"/>
+	  <Function name="KontoBerechtigungenName" version="11"/>
+	  <Function name="NomeSetPrivilegiAccount" version="11"/>
+	  <Function name="アカウントアクセス権セット名" version="11"/>
+	  <Function name="KontoBehörighetsuppsättning" version="11"/>
+	  <Function name="帐户权限集名称" version="11"/>
+	  <Function name="帳戶權限集名稱" version="11"/>
+
+	  <Function name="Acos" version="9"/>
+	  <Function name="Arccos" version="9"/>
+
+	  <Function name="ActiveFieldContents" version="7"/>
+	  <Function name="InhoudActiefVeld" version="7"/>
+	  <Function name="ContenuRubriqueActive" version="7"/>
+	  <Function name="AktivesFeldInhalt" version="7"/>
+	  <Function name="ContenutoCampoAttivo" version="7"/>
+	  <Function name="アクティブフィ-ルド内容" version="7"/>
+	  <Function name="AktivtFältinnehåll" version="7"/>
+	  <Function name="活动字段内容" version="7"/>
+	  <Function name="使用中欄位內容" version="7"/>
+
+	  <Function name="ActiveFieldName" version="7"/>
+	  <Function name="NaamActiefVeld" version="7"/>
+	  <Function name="NomRubriqueActive" version="7"/>
+	  <Function name="AktivesFeldName" version="7"/>
+	  <Function name="NomeCampoAttivo" version="7"/>
+	  <Function name="アクティブフィ-ルド名" version="7"/>
+	  <Function name="AktivtFältnamn" version="7"/>
+	  <Function name="活动字段名" version="7"/>
+	  <Function name="使用中欄位名稱" version="7"/>
+
+	  <Function name="ActiveFieldTableName" version="7"/>
+	  <Function name="TabelnaamActiefVeld" version="7"/>
+	  <Function name="NomTableRubriqueActive" version="7"/>
+	  <Function name="AktivesFeldTabellenName" version="7"/>
+	  <Function name="NomeTabellaCampoAttivo" version="7"/>
+	  <Function name="アクティブフィ-ルドテ-ブル名" version="7"/>
+	  <Function name="AktivtFältTabellnamn" version="7"/>
+	  <Function name="活动字段表名称" version="7"/>
+	  <Function name="使用中欄位表格名稱" version="7"/>
+
+	  <Function name="ActiveLayoutObjectName" version="8.5"/>
+	  <Function name="ActiefLayoutObjectNaam" version="8.5"/>
+	  <Function name="NomObjetModèleActif" version="8.5"/>
+	  <Function name="AktivesLayoutobjektName" version="8.5"/>
+	  <Function name="NomeOggettoFormatoAttivo" version="8.5"/>
+	  <Function name="アクティブレイアウトオブジェクト名" version="8.5"/>
+	  <Function name="AktivtLayoutobjektnamn" version="8.5"/>
+	  <Function name="活动布局对象名称" version="8.5"/>
+	  <Function name="作用中版面物件名稱" version="8.5"/>
+
+	  <Function name="ActiveModifierKeys" version="7"/>
+	  <Function name="ActieveCombinatietoetsen" version="7"/>
+	  <Function name="TouchesSpécialesActives" version="7"/>
+	  <Function name="SonderTastenGedrückt" version="7"/>
+	  <Function name="TastiModificatoreAttivo" version="7"/>
+	  <Function name="アクティブ修飾キ-" version="7"/>
+	  <Function name="AktivModifieringstangent" version="7"/>
+	  <Function name="活动的辅助键" version="7"/>
+	  <Function name="作用中輔助按鍵" version="7"/>
+
+	  <Function name="ActivePortalRowNumber" version="7"/>
+	  <Function name="ActiefPortaalrijnummer" version="7"/>
+	  <Function name="NuméroRangéeTableExterneActive" version="7"/>
+	  <Function name="AktiveAusschnittZeileNr" version="7"/>
+	  <Function name="NumeroRigaPortaleAttiva" version="7"/>
+	  <Function name="アクティブポ-タル行番号" version="7"/>
+	  <Function name="AktivtPortalradnummer" version="7"/>
+	  <Function name="活动入口行号" version="7"/>
+	  <Function name="作用中的入口資料列編號" version="7"/>
+
+	  <Function name="ActiveRepetitionNumber" version="7"/>
+	  <Function name="NummerActieveHerhaling" version="7"/>
+	  <Function name="NuméroRépétitionActive" version="7"/>
+	  <Function name="AktivesFeldWiederholungNr" version="7"/>
+	  <Function name="NumeroRipetizioneAttiva" version="7"/>
+	  <Function name="アクティブ繰り返し位置番号" version="7"/>
+	  <Function name="AktivtRepetitionsnummer" version="7"/>
+	  <Function name="活动值编号" version="7"/>
+	  <Function name="使用中重複項目編號" version="7"/>
+
+	  <Function name="ActiveSelectionSize" version="7"/>
+	  <Function name="ActieveSelectieGrootte" version="7"/>
+	  <Function name="TailleSélectionActive" version="7"/>
+	  <Function name="AktiveTextAuswahlGröße" version="7"/>
+	  <Function name="DimensioniSelezioneAttiva" version="7"/>
+	  <Function name="アクティブ選択サイズ" version="7"/>
+	  <Function name="AktivMarkeringStorlek" version="7"/>
+	  <Function name="选择字符数目" version="7"/>
+	  <Function name="使用中選項大小" version="7"/>
+
+	  <Function name="ActiveSelectionStart" version="7"/>
+	  <Function name="StartActieveSelectie" version="7"/>
+	  <Function name="DébutSélectionActive" version="7"/>
+	  <Function name="AktiveTextAuswahlStart" version="7"/>
+	  <Function name="InizioSelezioneAttiva" version="7"/>
+	  <Function name="アクティブ選択位置" version="7"/>
+	  <Function name="AktivMarkeringStart" version="7"/>
+	  <Function name="所选文本的开始字符位置" version="7"/>
+	  <Function name="使用中選項起始位置" version="7"/>
+
+	  <Function name="AllowAbortState" version="7"/>
+	  <Function name="StatusOnderbrekenToestaan" version="7"/>
+	  <Function name="EtatAutoriserAnnulation" version="7"/>
+	  <Function name="AnwenderAbbruchZulassenStatus" version="7"/>
+	  <Function name="ConsentiStatoInterruzione" version="7"/>
+	  <Function name="ユ-ザによる強制終了許可状態" version="7"/>
+	  <Function name="TillåtAvbrottStatus" version="7"/>
+	  <Function name="允许终止状态" version="7"/>
+	  <Function name="允許中止狀態" version="7"/>
+
+	  <Function name="AllowFormattingBarState" version="12"/>
+	  <Function name="ToestaanOpmaakbalkStatus" version="12"/>
+	  <Function name="EtatAutoriserBarreTexte" version="12"/>
+	  <Function name="FormatierungsleisteZulassenStatus" version="12"/>
+	  <Function name="ConsentiStatoBarraFormattazione" version="12"/>
+	  <Function name="書式設定バ-の表示状態" version="12"/>
+	  <Function name="LägeFörTillåtFormateringslist" version="12"/>
+	  <Function name="格式栏状态" version="12"/>
+	  <Function name="允許格式列狀態" version="12"/>
+
+	  <Function name="AllStyles" version="7"/>
+	  <Function name="AlleStijlen" version="7"/>
+	  <Function name="TousStyles" version="7"/>
+	  <Function name="AlleStile" version="7"/>
+	  <Function name="TuttiGliStili" version="7"/>
+	  <Function name="すべてのスタイル" version="7"/>
+	  <Function name="TodosOsEstilos" version="7"/>
+	  <Function name="TodosLosEstilos" version="7"/>
+	  <Function name="AllaStilar" version="7"/>
+	  <Function name="所有格式" version="7"/>
+	  <Function name="所有樣式" version="7"/>
+
+	  <Function name="and" version="7"/>
+	  <Function name="UND" version="7"/>
+
+	  <Function name="ApplicationLanguage" version="7"/>
+	  <Function name="ApplicatieTaal" version="7"/>
+	  <Function name="LangueApplication" version="7"/>
+	  <Function name="ProgrammSprache" version="7"/>
+	  <Function name="LinguaApplicazione" version="7"/>
+	  <Function name="アプリケ-ション言語" version="7"/>
+	  <Function name="Språkinställning" version="7"/>
+	  <Function name="应用程序语言" version="7"/>
+	  <Function name="應用程式語言" version="7"/>
+
+	  <Function name="ApplicationVersion" version="7"/>
+	  <Function name="ApplicatieVersie" version="7"/>
+	  <Function name="VersionApplication" version="7"/>
+	  <Function name="ProgrammVersion" version="7"/>
+	  <Function name="VersioneApplicazione" version="7"/>
+	  <Function name="アプリケ-ションバ-ジョン" version="7"/>
+	  <Function name="Programversion" version="7"/>
+	  <Function name="应用程序版本" version="7"/>
+	  <Function name="應用程式版本" version="7"/>
+
+	  <Function name="Asin" version="9"/>
+	  <Function name="Arcsin" version="9"/>
+
+	  <Function name="Atan" version="7"/>
+	  <Function name="Arctan" version="7"/>
+
+	  <Function name="Average" version="7"/>
+	  <Function name="Moyenne" version="7"/>
+	  <Function name="Mittelwert" version="7"/>
+	  <Function name="Medio" version="7"/>
+	  
+	  <Function name="Base64Decode" version="13"/>
+	  <Function name="Base64Dekodieren" version="13"/>
+	  <Function name="DecoderBase64" version="13"/>
+	  <Function name="DecodificaBase64" version="13"/>
+	 
+	  <Function name="Base64Encode" version="13"/>
+	  <Function name="Base64Kodieren" version="13"/>
+	  <Function name="CoderBase64" version="13"/>
+	  <Function name="CodificaBase64" version="13"/>
+
+	  <Function name="Bold" version="7"/>
+	  <Function name="Vet" version="7"/>
+	  <Function name="Gras" version="7"/>
+	  <Function name="Fett" version="7"/>
+	  <Function name="Grassetto" version="7"/>
+	  <Function name="太字" version="7"/>
+	  <Function name="Negrito" version="7"/>
+	  <Function name="Negrita" version="7"/>
+	  <Function name="Fet" version="7"/>
+	  <Function name="粗体" version="7"/>
+	  <Function name="粗體" version="7"/>
+
+	  <Function name="CalculationRepetitionNumber" version="7"/>
+	  <Function name="NummerBerekeningHerhaling" version="7"/>
+	  <Function name="NombreRépétitionsCalcul" version="7"/>
+	  <Function name="FormelWiederholungNr" version="7"/>
+	  <Function name="NumeroRipetizioneCalcolo" version="7"/>
+	  <Function name="計算式繰り返し位置番号" version="7"/>
+	  <Function name="BeräknatRepetitionsnummer" version="7"/>
+	  <Function name="参与计算的复合字段值序号" version="7"/>
+	  <Function name="計算重複項目編號" version="7"/>
+
+	  <Function name="Case" version="7"/>
+	  <Function name="Cas" version="7"/>
+	  <Function name="Falls" version="7"/>
+	  <Function name="Casi" version="7"/>
+
+	  <Function name="Ceiling" version="7"/>
+	  <Function name="Plafond" version="7"/>
+	  <Function name="NächsteGrößereGanzzahl" version="7"/>
+	  <Function name="Soffitto" version="7"/>
+
+	  <Function name="CentralEurope" version="7"/>
+	  <Function name="CentraalEuropa" version="7"/>
+	  <Function name="EuropeCentrale" version="7"/>
+	  <Function name="Mitteleuropa" version="7"/>
+	  <Function name="EuropaCentrale" version="7"/>
+	  <Function name="中欧" version="7"/>
+	  <Function name="Europa Central" version="7"/>
+	  <Function name="Centraleuropeisk" version="7"/>
+	  <Function name="中欧" version="7"/>
+	  <Function name="中歐" version="7"/>
+
+	  <Function name="Char" version="10"/>
+	  <Function name="Caractere" version="10"/>
+	  <Function name="Carattere" version="10"/>
+
+	  <Function name="Choose" version="7"/>
+	  <Function name="Choisir" version="7"/>
+	  <Function name="Auswahl" version="7"/>
+	  <Function name="Scegliere" version="7"/>
+
+	  <Function name="Code" version="10"/>
+	  <Function name="Codice" version="10"/>
+
+	  <Function name="Combination" version="7"/>
+	  <Function name="Combinaison" version="7"/>
+	  <Function name="Kombinationen" version="7"/>
+	  <Function name="Combinazione" version="7"/>
+
+	  <Function name="Condense" version="7"/>
+	  <Function name="Gecomprimeerd" version="7"/>
+	  <Function name="Komprimiert" version="7"/>
+	  <Function name="Condensato" version="7"/>
+	  <Function name="字間狭く" version="7"/>
+	  <Function name="Condensar" version="7"/>
+	  <Function name="Condensado" version="7"/>
+	  <Function name="Ihoptryckt" version="7"/>
+	  <Function name="压缩" version="7"/>
+	  <Function name="緊縮" version="7"/>
+
+	  <Function name="ConnectionState" version="12"/>
+	  <Function name="VerbindingsStatus" version="12"/>
+	  <Function name="EtatConnexion" version="12"/>
+	  <Function name="Verbindungsstatus" version="12"/>
+	  <Function name="StatoConnessione" version="12"/>
+	  <Function name="接続状態" version="12"/>
+	  <Function name="AnslutningsStatus" version="12"/>
+	  <Function name="连接状态" version="12"/>
+	  <Function name="連線狀態" version="12"/>
+
+	  <Function name="Cos" version="7"/>
+
+	  <Function name="Count" version="7"/>
+	  <Function name="Decompte" version="7"/>
+	  <Function name="Anzahl" version="7"/>
+	  <Function name="Conteggio" version="7"/>
+
+	  <Function name="CurrentDate" version="7"/>
+	  <Function name="HuidigeDatum" version="7"/>
+	  <Function name="DateActuelle" version="7"/>
+	  <Function name="SystemDatum" version="7"/>
+	  <Function name="DataCorrente" version="7"/>
+	  <Function name="日付" version="7"/>
+	  <Function name="AktuelltDatum" version="7"/>
+	  <Function name="当前日期" version="7"/>
+	  <Function name="目前的日期" version="7"/>
+
+	  <Function name="CurrentExtendedPrivileges" version="7"/>
+	  <Function name="HuidigeUitgebreidePrivileges" version="7"/>
+	  <Function name="PrivilègesEtendusActuels" version="7"/>
+	  <Function name="AktuelleErweiterteZugriffsrechte" version="7"/>
+	  <Function name="PrivilegiEstesiCorrenti" version="7"/>
+	  <Function name="現在の拡張アクセス権" version="7"/>
+	  <Function name="AktuellUtökadBehörighet" version="7"/>
+	  <Function name="当前扩展权限" version="7"/>
+	  <Function name="目前擴充的權限" version="7"/>
+
+	  <Function name="CurrentHostTimeStamp" version="7"/>
+	  <Function name="CurrentHostTimestamp" version="7"/>
+	  <Function name="TijdstempelHuidigeHost" version="7"/>
+	  <Function name="HorodatageHôteActuel" version="7"/>
+	  <Function name="HostZeitstempel" version="7"/>
+	  <Function name="IndicatoreDataOraHostCorrente" version="7"/>
+	  <Function name="ホストのタイムスタンプ" version="7"/>
+	  <Function name="TidsstämpelAktuellVärd" version="7"/>
+	  <Function name="当前主机时间戳" version="7"/>
+	  <Function name="目前的主機時間戳記" version="7"/>
+
+	  <Function name="CurrentPrivilegeSetName" version="7"/>
+	  <Function name="HuidigeNaamPrivilegeset" version="7"/>
+	  <Function name="NomPrivilègesActuels" version="7"/>
+	  <Function name="AktuelleBerechtigungenName" version="7"/>
+	  <Function name="NomeSetPrivilegiCorrente" version="7"/>
+	  <Function name="現在のアクセス権セット名" version="7"/>
+	  <Function name="AktuellBehörighetsuppsättning" version="7"/>
+	  <Function name="当前权限集名称" version="7"/>
+	  <Function name="目前權限集名稱" version="7"/>
+
+	  <Function name="CurrentTime" version="7"/>
+	  <Function name="HuidigeTijd" version="7"/>
+	  <Function name="HeureActuelle" version="7"/>
+	  <Function name="SystemUhrzeit" version="7"/>
+	  <Function name="OraCorrente" version="7"/>
+	  <Function name="時刻" version="7"/>
+	  <Function name="AktuellTid" version="7"/>
+	  <Function name="当前时间" version="7"/>
+	  <Function name="目前的時間" version="7"/>
+
+	  <Function name="CurrentTimeStamp" version="7"/>
+	  <Function name="CurrentTimestamp" version="7"/>
+	  <Function name="HuidigeTijdstempel" version="7"/>
+	  <Function name="HorodatageActuel" version="7"/>
+	  <Function name="SystemZeitstempel" version="7"/>
+	  <Function name="IndicatoreDataOraCorrente" version="7"/>
+	  <Function name="タイムスタンプ" version="7"/>
+	  <Function name="AktuellTidsstämpel" version="7"/>
+	  <Function name="当前系统时间" version="7"/>
+	  <Function name="目前的時間戳記" version="7"/>
+
+	  <Function name="CustomMenuSetName" version="8"/>
+	  <Function name="NaamEigenMenureeks" version="8"/>
+	  <Function name="NomJeuMenuPersonnalisé" version="8"/>
+	  <Function name="AngepasstenMenüsetName" version="8"/>
+	  <Function name="NomeGruppoMenuPersonalizzato" version="8"/>
+	  <Function name="カスタムメニュ-セット名" version="8"/>
+	  <Function name="EgenMenyuppsättningsnamn" version="8"/>
+	  <Function name="自定义菜单集名称" version="8"/>
+	  <Function name="自訂功能表集名稱" version="8"/>
+
+	  <Function name="Cyrillic" version="7"/>
+	  <Function name="Cyrillisch" version="7"/>
+	  <Function name="Cyrillique" version="7"/>
+	  <Function name="Kyrillisch" version="7"/>
+	  <Function name="Cirillico" version="7"/>
+	  <Function name="キリル語" version="7"/>
+	  <Function name="Cirílico" version="7"/>
+	  <Function name="Kyrillisk" version="7"/>
+	  <Function name="西里尔文" version="7"/>
+	  <Function name="斯拉夫文" version="7"/>
+
+	  <Function name="DatabaseNames" version="7"/>
+	  <Function name="DatabaseNamen" version="7"/>
+	  <Function name="NomsBases" version="7"/>
+	  <Function name="DatenbankNamen" version="7"/>
+	  <Function name="NomiDatabase" version="7"/>
+
+	  <Function name="Date" version="7"/>
+	  <Function name="Datum" version="7"/>
+	  <Function name="Data" version="7"/>
+
+	  <Function name="Day" version="7"/>
+	  <Function name="Jour" version="7"/>
+	  <Function name="KalendertagZahl" version="7"/>
+	  <Function name="Giorno" version="7"/>
+
+	  <Function name="DayName" version="7"/>
+	  <Function name="NomJour" version="7"/>
+	  <Function name="WochentagName" version="7"/>
+	  <Function name="NomeGiorno" version="7"/>
+
+	  <Function name="DayNameJ" version="7"/>
+	  <Function name="NomJourJ" version="7"/>
+	  <Function name="WochentagNameJap" version="7"/>
+	  <Function name="NomeGiornoJ" version="7"/>
+
+	  <Function name="DayOfWeek" version="7"/>
+	  <Function name="JourSemaine" version="7"/>
+	  <Function name="WochentagZahl" version="7"/>
+	  <Function name="GiornodiSettimana" version="7"/>
+
+	  <Function name="DayOfYear" version="7"/>
+	  <Function name="JourAnnee" version="7"/>
+	  <Function name="TagDesJahres" version="7"/>
+	  <Function name="GiornodellAnno" version="7"/>
+
+	  <Function name="DBEngineVersion" version=""/>
+
+	  <Function name="Degrees" version="7"/>
+	  <Function name="Degres" version="7"/>
+	  <Function name="Grad" version="7"/>
+	  <Function name="Gradi" version="7"/>
+	  
+	  <Function name="DesktopPath" version="8"/>
+	  <Function name="BureaubladPad" version="8"/>
+	  <Function name="CheminBureau" version="8"/>
+	  <Function name="DesktopPfad" version="8"/>
+	  <Function name="PercorsoDesktop" version="8"/>
+	  <Function name="デスクトップパス" version="8"/>
+	  <Function name="Skrivbordssökväg" version="8"/>
+	  <Function name="桌面路径" version="8"/>
+	  <Function name="桌面路徑" version="8"/>
+
+	  <Function name="Div" version="7"/>
+	  <Function name="Divisore" version="7"/>
+
+	  <Function name="DocumentsPath" version="8"/>
+	  <Function name="Documentpad" version="8"/>
+	  <Function name="CheminDocuments" version="8"/>
+	  <Function name="DokumentenPfad" version="8"/>
+	  <Function name="PercorsoDocumenti" version="8"/>
+	  <Function name="ドキュメントパス" version="8"/>
+	  <Function name="Dokumentsökväg" version="8"/>
+	  <Function name="文档路径" version="8"/>
+	  <Function name="文件路徑" version="8"/>
+
+	  <Function name="DocumentsPathListing" version="10"/>
+	  <Function name="LijstDocumentenpad" version="10"/>
+	  <Function name="ListingDocuments" version="10"/>
+	  <Function name="DokumentePfadListe" version="10"/>
+	  <Function name="ElencoPercorsoDocumenti" version="10"/>
+	  <Function name="ドキュメントパス一覧" version="10"/>
+	  <Function name="Dokumentsökvägslista" version="10"/>
+	  <Function name="文档路径列表" version="10"/>
+	  <Function name="文件路徑清單" version="10"/>
+
+	  <Function name="DoubleUnderline" version="7"/>
+	  <Function name="DubbelOnderstreept" version="7"/>
+	  <Function name="DoubleSouligné" version="7"/>
+	  <Function name="DoppeltUnterstrichen" version="7"/>
+	  <Function name="DoppiaSottolineatura" version="7"/>
+	  <Function name="二重下線" version="7"/>
+	  <Function name="SublinhadoDuplo" version="7"/>
+	  <Function name="DobleSubrayado" version="7"/>
+	  <Function name="DubbeltUnderstruken" version="7"/>
+	  <Function name="双下划线" version="7"/>
+	  <Function name="雙底線" version="7"/>
+
+	  <Function name="ErrorCaptureState" version="7"/>
+	  <Function name="StatusFoutafvanging" version="7"/>
+	  <Function name="EtatGestionErreurs" version="7"/>
+	  <Function name="FehleraufzeichnungAktivStatus" version="7"/>
+	  <Function name="StatoCatturaErrori" version="7"/>
+	  <Function name="エラ-処理状態" version="7"/>
+	  <Function name="Felhanteringsläge" version="7"/>
+	  <Function name="错误捕获状态" version="7"/>
+	  <Function name="錯誤擷取狀態" version="7"/>
+
+	  <Function name="Evaluate" version="7" indirectionType="CustomFunctions,Fields"/>
+	  <Function name="Evalueren" version="7" indirectionType="CustomFunctions,Fields"/>
+	  <Function name="Evaluation" version="7" indirectionType="CustomFunctions,Fields"/>
+	  <Function name="Berechne" version="7" indirectionType="CustomFunctions,Fields"/>
+	  <Function name="Valutazione" version="7" indirectionType="CustomFunctions,Fields"/>
+
+	  <Function name="EvaluationError" version="7" indirectionType="CustomFunctions,Fields"/>
+	  <Function name="ErreurEvaluation" version="7" indirectionType="CustomFunctions,Fields"/>
+	  <Function name="BerechnungsFehler" version="7" indirectionType="CustomFunctions,Fields"/>
+	  <Function name="ErroreValutazione" version="7" indirectionType="CustomFunctions,Fields"/>
+
+	  <Function name="Exact" version="7"/>
+	  <Function name="EstEgal" version="7"/>
+	  <Function name="Exakt" version="7"/>
+	  <Function name="Esatto" version="7"/>
+
+	  <Function name="ExecuteSQL" version="12"/>
+	  <Function name="ExecuterSQL" version="12"/>
+	  <Function name="SQLQueryAusführen" version="12"/>
+	  <Function name="EseguiSQL" version="12"/>
+
+	  <Function name="Exp" version="7"/>
+	  <Function name="Esponente" version="7"/>
+
+	  <Function name="Extend" version="7"/>
+	  <Function name="Multivaluee" version="7"/>
+	  <Function name="Erweitern" version="7"/>
+	  <Function name="Espanso" version="7"/>
+
+	  <Function name="Extend" version="7"/>
+	  <Function name="Uitgestrekt" version="7"/>
+	  <Function name="Etendu" version="7"/>
+	  <Function name="Gesperrt" version="7"/>
+	  <Function name="Espanso" version="7"/>
+	  <Function name="字間広く" version="7"/>
+	  <Function name="Estender" version="7"/>
+	  <Function name="Extendido" version="7"/>
+	  <Function name="Utdragen" version="7"/>
+	  <Function name="伸展" version="7"/>
+	  <Function name="擴展" version="7"/>
+
+	  <Function name="External" version="7" maxVersion="15"/>
+	  <Function name="Externe" version="7" maxVersion="15"/>
+	  <Function name="Extern" version="7" maxVersion="15"/>
+	  <Function name="Esterno" version="7" maxVersion="15"/>
+
+	  <Function name="Factorial" version="7"/>
+	  <Function name="Factoriel" version="7"/>
+	  <Function name="Fakultät" version="7"/>
+	  <Function name="Fattoriale" version="7"/>
+
+	  <Function name="False" version="7"/>
+	  <Function name="Falsch" version="7"/>
+
+	  <Function name="FieldBounds" version="7" indirectionType="Fields,Layouts"/>
+	  <Function name="TailleRubrique" version="7" indirectionType="Fields,Layouts"/>
+	  <Function name="FeldLayoutPosition" version="7" indirectionType="Fields,Layouts"/>
+	  <Function name="LimitiCampo" version="7" indirectionType="Fields,Layouts"/>
+
+	  <Function name="FieldComment" version="7" indirectionType="Fields"/>
+	  <Function name="CommentaireRubrique" version="7" indirectionType="Fields"/>
+	  <Function name="FeldKommentar" version="7" indirectionType="Fields"/>
+	  <Function name="CommentoCampo" version="7" indirectionType="Fields"/>
+
+	  <Function name="FieldIDs" version="7" indirectionType="Layouts"/>
+	  <Function name="IDRubrique" version="7" indirectionType="Layouts"/>
+	  <Function name="FeldIDs" version="7" indirectionType="Layouts"/>
+	  <Function name="IDCampo" version="7" indirectionType="Layouts"/>
+
+	  <Function name="FieldNames" version="7" indirectionType="Layouts"/>
+	  <Function name="NomsRubriques" version="7" indirectionType="Layouts"/>
+	  <Function name="FeldNamen" version="7" indirectionType="Layouts"/>
+	  <Function name="NomeCampi" version="7" indirectionType="Layouts"/>
+
+	  <Function name="FieldRepetitions" version="7" indirectionType="Fields,Layouts"/>
+	  <Function name="ValeursRubrique" version="7" indirectionType="Fields,Layouts"/>
+	  <Function name="FeldLayoutAnzahlWdh" version="7" indirectionType="Fields,Layouts"/>
+	  <Function name="RipetizioniCampo" version="7" indirectionType="Fields,Layouts"/>
+
+	  <Function name="FieldStyle" version="7" indirectionType="Fields,Layouts"/>
+	  <Function name="StyleRubrique" version="7" indirectionType="Fields,Layouts"/>
+	  <Function name="FeldLayoutStil" version="7" indirectionType="Fields,Layouts"/>
+	  <Function name="StileCampo" version="7" indirectionType="Fields,Layouts"/>
+
+	  <Function name="FieldType" version="7" indirectionType="Fields"/>
+	  <Function name="TypeRubrique" version="7" indirectionType="Fields"/>
+	  <Function name="FeldTyp" version="7" indirectionType="Fields"/>
+	  <Function name="TipoCampo" version="7" indirectionType="Fields"/>
+
+	  <Function name="FileMakerPath" version="8"/>
+	  <Function name="FileMakerpad" version="8"/>
+	  <Function name="CheminFileMaker" version="8"/>
+	  <Function name="FileMakerPfad" version="8"/>
+	  <Function name="PercorsoFileMaker" version="8"/>
+	  <Function name="FileMaker パス" version="8"/>
+	  <Function name="FileMakersökväg" version="8"/>
+	  <Function name="FileMaker路径" version="8"/>
+	  <Function name="FileMaker 路徑" version="8"/>
+
+	  <Function name="FileName" version="7"/>
+	  <Function name="BestandsNaam" version="7"/>
+	  <Function name="NomFichier" version="7"/>
+	  <Function name="DateiName" version="7"/>
+	  <Function name="NomeFile" version="7"/>
+	  <Function name="ファイル名" version="7"/>
+	  <Function name="Filnamn" version="7"/>
+	  <Function name="文件名" version="7"/>
+	  <Function name="檔案名稱" version="7"/>
+
+	  <Function name="FilePath" version="7"/>
+	  <Function name="Bestandspad" version="7"/>
+	  <Function name="CheminFichier" version="7"/>
+	  <Function name="DateiPfad" version="7"/>
+	  <Function name="PercorsoFile" version="7"/>
+	  <Function name="ファイルパス" version="7"/>
+	  <Function name="Databassökväg" version="7"/>
+	  <Function name="文件路径" version="7"/>
+	  <Function name="檔案路徑" version="7"/>
+
+	  <Function name="FileSize" version="7"/>
+	  <Function name="BestandsGrootte" version="7"/>
+	  <Function name="TailleFichier" version="7"/>
+	  <Function name="DateiGrößeBytes" version="7"/>
+	  <Function name="DimensioniFile" version="7"/>
+	  <Function name="ファイルサイズ" version="7"/>
+	  <Function name="Filstorlek" version="7"/>
+	  <Function name="文件大小" version="7"/>
+	  <Function name="檔案大小" version="7"/>
+
+	  <Function name="Filter" version="7"/>
+	  <Function name="Filtre" version="7"/>
+	  <Function name="FilterZeichen" version="7"/>
+	  <Function name="Filtro" version="7"/>
+
+	  <Function name="FilterValues" version="7"/>
+	  <Function name="ValeursFiltre" version="7"/>
+	  <Function name="FilterElemente" version="7"/>
+	  <Function name="ValoriFiltro" version="7"/>
+
+	  <Function name="Floor" version="7"/>
+	  <Function name="Plancher" version="7"/>
+	  <Function name="NächsteKleinereGanzzahl" version="7"/>
+	  <Function name="Piano" version="7"/>
+
+	  <Function name="FoundCount" version="7"/>
+	  <Function name="GevondenTelling" version="7"/>
+	  <Function name="NombreEnregTrouvés" version="7"/>
+	  <Function name="AnzahlGefundeneDatensätze" version="7"/>
+	  <Function name="ContoTrovati" version="7"/>
+	  <Function name="対象レコ-ド数" version="7"/>
+	  <Function name="HittadePoster" version="7"/>
+	  <Function name="查找个数" version="7"/>
+	  <Function name="找到的計數" version="7"/>
+
+	  <Function name="FV" version="7"/>
+	  <Function name="Vc" version="7"/>
+	  <Function name="ZW" version="7"/>
+	  <Function name="VF" version="7"/>
+
+	  <Function name="Get" version="7"/>
+	  <Function name="Obtenir" version="7"/>
+	  <Function name="Hole" version="7"/>
+
+	  <Function name="GetAsBoolean" version="8"/>
+	  <Function name="ObtenirCommeBooleen" version="8"/>
+	  <Function name="LiesAlsBoolean" version="8"/>
+	  <Function name="RicavaComeBooleano" version="8"/>
+
+	  <Function name="GetAsCSS" version="7"/>
+	  <Function name="ObtenirCSS" version="7"/>
+	  <Function name="LiesAlsCSS" version="7"/>
+	  <Function name="RicavaComeCSS" version="7"/>
+
+	  <Function name="GetAsDate" version="7"/>
+	  <Function name="ObtenirDate" version="7"/>
+	  <Function name="LiesAlsDatum" version="7"/>
+	  <Function name="RicavaComeData" version="7"/>
+
+	  <Function name="GetAsNumber" version="7"/>
+	  <Function name="ObtenirNombre" version="7"/>
+	  <Function name="LiesAlsZahl" version="7"/>
+	  <Function name="RicavaComeNumero" version="7"/>
+
+	  <Function name="GetAsSVG" version="7"/>
+	  <Function name="ObtenirSVG" version="7"/>
+	  <Function name="LiesAlsSVG" version="7"/>
+	  <Function name="RicavaComeSVG" version="7"/>
+
+	  <Function name="GetAsText" version="7"/>
+	  <Function name="ObtenirTexte" version="7"/>
+	  <Function name="LiesAlsText" version="7"/>
+	  <Function name="RicavaComeTesto" version="7"/>
+
+	  <Function name="GetAsTime" version="7"/>
+	  <Function name="ObtenirHeure" version="7"/>
+	  <Function name="LiesAlsZeit" version="7"/>
+	  <Function name="RicavaComeOra" version="7"/>
+
+	  <Function name="GetAsTimestamp" version="7"/>
+	  <Function name="ObtenirHorodatage" version="7"/>
+	  <Function name="LiesAlsZeitstempel" version="7"/>
+	  <Function name="RicavaComeIndDataOra" version="7"/>
+
+	  <Function name="GetAsURLEncoded" version="8.5"/>
+	  <Function name="ObtenirURLCodee" version="8.5"/>
+	  <Function name="LiesAlsURLVerschlüsselt" version="8.5"/>
+	  <Function name="RicavaComeCodificaURL" version="8.5"/>
+
+	  <Function name="GetContainerAttribute" version="13"/>
+	  <Function name="HoleContainerAttribute" version="13"/>
+	  <Function name="ObtenirAttributConteneur" version="13"/>
+	  <Function name="RicavaAttributoContenitore" version="13"/>
+
+	  <Function name="GetField" version="7" indirectionType="Fields"/>
+	  <Function name="ResultatRubrique" version="7" indirectionType="Fields"/>
+	  <Function name="HoleFeldwert" version="7" indirectionType="Fields"/>
+	  <Function name="RicavaCampo" version="7" indirectionType="Fields"/>
+
+	  <Function name="GetFieldName" version="10"/>
+	  <Function name="ObtenirNomRubrique" version="10"/>
+	  <Function name="HoleFeldname" version="10"/>
+	  <Function name="RicavaNomeCampo" version="10"/>
+
+	  <Function name="GetHeight" version="12"/>
+	  <Function name="ObtenirHauteur" version="12"/>
+	  <Function name="HoleHöhe" version="12"/>
+	  <Function name="GetAltezza" version="12"/>
+
+	  <Function name="GetLayoutObjectAttribute" version="8.5"/>
+	  <Function name="ObtenirAttributObjetModele" version="8.5"/>
+	  <Function name="LiesLayoutobjektAttribut" version="8.5"/>
+	  <Function name="GetAttributoOggettoFormato" version="8.5"/>
+
+	  <Function name="GetNextSerialValue" version="7" indirectionType="Fields"/>
+	  <Function name="ResultatValeurSerieSuivante" version="7" indirectionType="Fields"/>
+	  <Function name="HoleNächsteFortlNr" version="7" indirectionType="Fields"/>
+	  <Function name="RicavaProssimoValoreSerie" version="7" indirectionType="Fields"/>
+
+	  <Function name="GetNthRecord" version="7"/>
+	  <Function name="ObtenirEniemeEnreg" version="7"/>
+	  <Function name="HoleNtenDatensatz" version="7"/>
+	  <Function name="RicavaEnnesimoRecord" version="7"/>
+
+	  <Function name="GetRepetition" version="7"/>
+	  <Function name="ObtenirRepetition" version="7"/>
+	  <Function name="HoleWiederholfeldwert" version="7"/>
+	  <Function name="RicavaRipetizioni" version="7"/>
+
+	  <Function name="GetSummary" version="7"/>
+	  <Function name="Recapitulatif" version="7"/>
+	  <Function name="HoleErgebniswert" version="7"/>
+	  <Function name="RicavaRiassunto" version="7"/>
+
+	  <Function name="GetThumbnail" version="12"/>
+	  <Function name="ObtenirMiniature" version="12"/>
+	  <Function name="HoleVorschaubild" version="12"/>
+	  <Function name="GetMiniatura" version="12"/>
+
+	  <Function name="GetValue" version="8"/>
+	  <Function name="ObtenirValeur" version="8"/>
+	  <Function name="HoleWert" version="8"/>
+	  <Function name="RicavaValore" version="8"/>
+
+	  <Function name="GetWidth" version="12"/>
+	  <Function name="ObtenirLargeur" version="12"/>
+	  <Function name="HoleBreite" version="12"/>
+	  <Function name="GetLarghezza" version="12"/>
+
+	  <Function name="Greek" version="7"/>
+	  <Function name="Grieks" version="7"/>
+	  <Function name="Grec" version="7"/>
+	  <Function name="Griechisch" version="7"/>
+	  <Function name="Greco" version="7"/>
+	  <Function name="ギリシャ語" version="7"/>
+	  <Function name="Grego" version="7"/>
+	  <Function name="Grekisk" version="7"/>
+	  <Function name="希腊文" version="7"/>
+	  <Function name="希臘文" version="7"/>
+
+	  <Function name="HighContrastColor" version="7"/>
+	  <Function name="KleurHoogContrast" version="7"/>
+	  <Function name="CouleurContrasteElevé" version="7"/>
+	  <Function name="HoherKontrastFarbe" version="7"/>
+	  <Function name="ColoreAltoContrasto" version="7"/>
+	  <Function name="ハイコントラスト色" version="7"/>
+	  <Function name="Högkontrastfärg" version="7"/>
+	  <Function name="高对比度色彩模式" version="7"/>
+	  <Function name="高對比顏色" version="7"/>
+
+	  <Function name="HighContrastState" version="7"/>
+	  <Function name="StatusHoogContrast" version="7"/>
+	  <Function name="EtatContrasteElevé" version="7"/>
+	  <Function name="HoherKontrastStatus" version="7"/>
+	  <Function name="StatoAltoContrasto" version="7"/>
+	  <Function name="ハイコントラスト状態" version="7"/>
+	  <Function name="Högkontrastläge" version="7"/>
+	  <Function name="高对比度状态" version="7"/>
+	  <Function name="高對比狀態" version="7"/>
+
+	  <Function name="Higher" version="7"/>
+	  <Function name="Lagere" version="7"/>
+	  <Function name="Supérieur" version="7"/>
+	  <Function name="Nachfolger" version="7"/>
+	  <Function name="Sup" version="7"/>
+	  <Function name="後方" version="7"/>
+	  <Function name="Mais alto" version="7"/>
+	  <Function name="Arriba" version="7"/>
+	  <Function name="högre" version="7"/>
+	  <Function name="向上" version="7"/>
+	  <Function name="較高" version="7"/>
+
+	  <Function name="HighlightYellow" version="7"/>
+	  <Function name="GeelMarkeren" version="7"/>
+	  <Function name="MiseEnSurbrillanceJaune" version="7"/>
+	  <Function name="GelbMarkieren" version="7"/>
+	  <Function name="EvidenziaGiallo" version="7"/>
+	  <Function name="強調表示" version="7"/>
+	  <Function name="Realçar em amarelo" version="7"/>
+	  <Function name="Resaltado en amarillo" version="7"/>
+	  <Function name="Gulmarkerad" version="7"/>
+	  <Function name="黄色高亮显示" version="7"/>
+	  <Function name="黃色高亮度顯示" version="7"/>
+
+	  <Function name="Hiragana" version="7"/>
+
+	  <Function name="HostApplicationVersion" version="9"/>
+	  <Function name="VersieHosttoepassing" version="9"/>
+	  <Function name="VersionApplicationHôte" version="9"/>
+	  <Function name="HostAnwendungVersion" version="9"/>
+	  <Function name="VersioneApplicazioneHost" version="9"/>
+	  <Function name="ホストアプリケ-ションバ-ジョン" version="9"/>
+	  <Function name="Värdprogramversion" version="9"/>
+	  <Function name="主机应用程序版本" version="9"/>
+	  <Function name="主機應用程式版本" version="9"/>
+
+	  <Function name="HostIPAddress" version="8"/>
+	  <Function name="IPadresHost" version="8"/>
+	  <Function name="AdresseIPHôte" version="8"/>
+	  <Function name="HostIPAdresse" version="8"/>
+	  <Function name="IndirizzoIPHost" version="8"/>
+	  <Function name="ホスト IP アドレス" version="8"/>
+	  <Function name="VärdIPadress" version="8"/>
+	  <Function name="主机IP地址" version="8"/>
+	  <Function name="主機 IP 位址" version="8"/>
+
+	  <Function name="HostName" version="7"/>
+	  <Function name="HostNaam" version="7"/>
+	  <Function name="NomHôte" version="7"/>
+	  <Function name="NomeHost" version="7"/>
+	  <Function name="ホスト名" version="7"/>
+	  <Function name="Värdnamn" version="7"/>
+	  <Function name="主机名" version="7"/>
+	  <Function name="主機名稱" version="7"/>
+
+	  <Function name="Hour" version="7"/>
+	  <Function name="Heures" version="7"/>
+	  <Function name="Stunden" version="7"/>
+	  <Function name="Ore" version="7"/>
+	  <Function name="Hora" version="7"/>
+
+	  <Function name="If" version="7"/>
+	  <Function name="Si" version="7"/>
+	  <Function name="Wenn" version="7"/>
+
+	  <Function name="InstalledFMPlugins" version="12"/>
+	  <Function name="GeïnstalleerdeFMPlugins" version="12"/>
+	  <Function name="PluginsFMInstallés" version="12"/>
+	  <Function name="InstallierteFMPlugins" version="12"/>
+	  <Function name="PluginFMInstallati" version="12"/>
+	  <Function name="インスト-ルされた FM プラグイン" version="12"/>
+	  <Function name="InstalleradeFMPlugin" version="12"/>
+	  <Function name="安装的 FM 插件" version="12"/>
+	  <Function name="已安裝的 FMP 外掛程式" version="12"/>
+
+	  <Function name="Int" version="7"/>
+	  <Function name="Ent" version="7"/>
+	  <Function name="Ganzzahl" version="7"/>
+	  <Function name="Intero" version="7"/>
+
+	  <Function name="IsEmpty" version="7"/>
+	  <Function name="EstVide" version="7"/>
+	  <Function name="IstLeer" version="7"/>
+	  <Function name="EVuoto" version="7"/>
+
+	  <Function name="IsValid" version="7"/>
+	  <Function name="EstCorrect" version="7"/>
+	  <Function name="IstGültig" version="7"/>
+	  <Function name="EValido" version="7"/>
+
+	  <Function name="IsValidExpression" version="7" indirectionType="CustomFunctions,Fields" />
+	  <Function name="EstExpressionValide" version="7" indirectionType="CustomFunctions,Fields" />
+	  <Function name="IstGültigBerechnung" version="7" indirectionType="CustomFunctions,Fields" />
+	  <Function name="EunEspressioneValida" version="7" indirectionType="CustomFunctions,Fields" />
+
+	  <Function name="Italic" version="7"/>
+	  <Function name="Cursief" version="7"/>
+	  <Function name="Italique" version="7"/>
+	  <Function name="Kursiv" version="7"/>
+	  <Function name="Corsivo" version="7"/>
+	  <Function name="斜体" version="7"/>
+	  <Function name="Itálico" version="7"/>
+	  <Function name="Cursiva" version="7"/>
+	  <Function name="Kursiv" version="7"/>
+	  <Function name="斜体" version="7"/>
+	  <Function name="斜體" version="7"/>
+
+	  <Function name="KanaHankaku" version="7"/>
+
+	  <Function name="KanaZenkaku" version="7"/>
+
+	  <Function name="KanjiNumeral" version="7"/>
+	  <Function name="ChiffreKanji" version="7"/>
+	  <Function name="NumeriKanji" version="7"/>
+
+	  <Function name="Katakana" version="7"/>
+
+	  <Function name="Last" version="7"/>
+	  <Function name="Derniere" version="7"/>
+	  <Function name="Letztes" version="7"/>
+	  <Function name="Ultimo" version="7"/>
+
+	  <Function name="LastError" version="7"/>
+	  <Function name="LaatsteFout" version="7"/>
+	  <Function name="DernièreErreur" version="7"/>
+	  <Function name="LetzteFehlerNr" version="7"/>
+	  <Function name="UltimoErrore" version="7"/>
+	  <Function name="最終エラ-" version="7"/>
+	  <Function name="SenasteFel" version="7"/>
+	  <Function name="上一个错误" version="7"/>
+	  <Function name="上一個錯誤" version="7"/>
+
+	  <Function name="LastMessageChoice" version="7"/>
+	  <Function name="KeuzeLaatsteBericht" version="7"/>
+	  <Function name="DernierChoixMessage" version="7"/>
+	  <Function name="LetzteMeldungswahl" version="7"/>
+	  <Function name="SceltaUltimoMessaggio" version="7"/>
+	  <Function name="最終メッセ-ジ選択" version="7"/>
+	  <Function name="SenasteMeddelandeval" version="7"/>
+	  <Function name="上次选择信息" version="7"/>
+	  <Function name="上一個訊息選擇" version="7"/>
+
+	  <Function name="LastODBCError" version="7"/>
+	  <Function name="LaatsteODBCfout" version="7"/>
+	  <Function name="DernièreErreurOdbc" version="7"/>
+	  <Function name="LetztenODBCFehler" version="7"/>
+	  <Function name="UltimoErroreODBC" version="7"/>
+	  <Function name="最終 ODBC エラ-" version="7"/>
+	  <Function name="SenasteODBCfel" version="7"/>
+	  <Function name="上一个ODBC错误" version="7"/>
+	  <Function name="上一個 ODBC 錯誤" version="7"/>
+
+	  <Function name="LayoutAccess" version="7"/>
+	  <Function name="LayoutToegang" version="7"/>
+	  <Function name="AccèsModèle" version="7"/>
+	  <Function name="LayoutBerechtigungen" version="7"/>
+	  <Function name="AccessoFormato" version="7"/>
+	  <Function name="レイアウトアクセス" version="7"/>
+	  <Function name="Layoutbehörighet" version="7"/>
+	  <Function name="布局访问权限" version="7"/>
+	  <Function name="版面存取" version="7"/>
+
+	  <Function name="LayoutCount" version="7"/>
+	  <Function name="TellingLayout" version="7"/>
+	  <Function name="NombreModèles" version="7"/>
+	  <Function name="DateiLayoutanzahl" version="7"/>
+	  <Function name="ContoFormati" version="7"/>
+	  <Function name="レイアウト数" version="7"/>
+	  <Function name="Layoutantal" version="7"/>
+	  <Function name="布局个数" version="7"/>
+	  <Function name="版面計數" version="7"/>
+
+	  <Function name="LayoutIDs" version="7"/>
+	  <Function name="IDModele" version="7"/>
+	  <Function name="IDFormati" version="7"/>
+
+	  <Function name="LayoutName" version="7"/>
+	  <Function name="LayoutNaam" version="7"/>
+	  <Function name="NomModèle" version="7"/>
+	  <Function name="NomeFormato" version="7"/>
+	  <Function name="レイアウト名" version="7"/>
+	  <Function name="Layoutnamn" version="7"/>
+	  <Function name="布局名称" version="7"/>
+	  <Function name="版面名稱" version="7"/>
+
+	  <Function name="LayoutNames" version="7"/>
+	  <Function name="NomsModeles" version="7"/>
+	  <Function name="LayoutNamen" version="7"/>
+	  <Function name="NomeFormati" version="7"/>
+
+	  <Function name="LayoutNumber" version="7"/>
+	  <Function name="LayoutNummer" version="7"/>
+	  <Function name="NuméroModèle" version="7"/>
+	  <Function name="LayoutNummer" version="7"/>
+	  <Function name="NumeroFormato" version="7"/>
+	  <Function name="レイアウト番号" version="7"/>
+	  <Function name="Layoutnummer" version="7"/>
+	  <Function name="布局编号" version="7"/>
+	  <Function name="版面編號" version="7"/>
+
+	  <Function name="LayoutObjectNames" version="8.5" indirectionType="Layouts" />
+	  <Function name="NomsObjetsModeles" version="8.5" indirectionType="Layouts" />
+	  <Function name="LayoutobjektNamen" version="8.5" indirectionType="Layouts" />
+	  <Function name="NomiOggettoFormato" version="8.5" indirectionType="Layouts" />
+
+	  <Function name="LayoutTableName" version="7"/>
+	  <Function name="LayoutTabelNaam" version="7"/>
+	  <Function name="NomTableModèle" version="7"/>
+	  <Function name="LayoutTabellenname" version="7"/>
+	  <Function name="NomeTabellaFormato" version="7"/>
+	  <Function name="レイアウトテ-ブル名" version="7"/>
+	  <Function name="LayoutTabellnamn" version="7"/>
+	  <Function name="布局表名称" version="7"/>
+	  <Function name="版面表格名稱" version="7"/>
+
+	  <Function name="LayoutViewState" version="7"/>
+	  <Function name="StatusWeergaveLayout" version="7"/>
+	  <Function name="EtatVueModèle" version="7"/>
+	  <Function name="LayoutAnzeigeAlsStatus" version="7"/>
+	  <Function name="StatoVistaFormato" version="7"/>
+	  <Function name="レイアウト表示状態" version="7"/>
+	  <Function name="Layoutvisningsläge" version="7"/>
+	  <Function name="布局浏览模式" version="7"/>
+	  <Function name="版面檢視狀態" version="7"/>
+
+	  <Function name="Left" version="7"/>
+	  <Function name="Debut" version="7"/>
+	  <Function name="ZeichenLinks" version="7"/>
+	  <Function name="Sinistra" version="7"/>
+
+	  <Function name="LeftValues" version="7"/>
+	  <Function name="ValeursDebut" version="7"/>
+	  <Function name="ElementeLinks" version="7"/>
+	  <Function name="ValoriaSinistra" version="7"/>
+
+	  <Function name="LeftWords" version="7"/>
+	  <Function name="MotsDebut" version="7"/>
+	  <Function name="WörterLinks" version="7"/>
+	  <Function name="ParoleaSinistra" version="7"/>
+
+	  <Function name="Length" version="7"/>
+	  <Function name="Longueur" version="7"/>
+	  <Function name="Länge" version="7"/>
+	  <Function name="Lunghezza" version="7"/>
+
+	  <Function name="Let" version="7"/>
+	  <Function name="Definir" version="7"/>
+	  <Function name="SetzeVars" version="7"/>
+	  <Function name="Dichiara" version="7"/>
+
+	  <Function name="Lg" version="7"/>
+
+	  <Function name="List" version="8.5"/>
+	  <Function name="Liste" version="8.5"/>
+	  <Function name="Liste" version="8.5"/>
+	  <Function name="Lista" version="8.5"/>
+
+	  <Function name="Ln" version="7"/>
+
+	  <Function name="Location" version="12"/>
+	  <Function name="Emplacement" version="12"/>
+	  <Function name="Standort" version="12"/>
+	  <Function name="Localizzazione" version="12"/>
+
+	  <Function name="LocationValues" version="12"/>
+	  <Function name="ValeursEmplacement" version="12"/>
+	  <Function name="Standortwerte" version="12"/>
+	  <Function name="ValoriLocalizzazione" version="12"/>
+
+	  <Function name="Log" version="7"/>
+
+	  <Function name="Lookup" version="7" indirectionType="CustomFunctions,Fields" />
+	  <Function name="ReferenceExterne" version="7" indirectionType="CustomFunctions,Fields" />
+	  <Function name="LookupFeldwert" version="7" indirectionType="CustomFunctions,Fields" />
+	  <Function name="Riferimento" version="7" indirectionType="CustomFunctions,Fields" />
+
+	  <Function name="LookupNext" version="7"/>
+	  <Function name="ReferenceExterneSuivante" version="7"/>
+	  <Function name="LookupFeldwertNächster" version="7"/>
+	  <Function name="RiferimentoSucc" version="7"/>
+
+	  <Function name="Lower" version="7"/>
+	  <Function name="Minuscule" version="7"/>
+	  <Function name="Kleinbuchstaben" version="7"/>
+	  <Function name="Minuscolo" version="7"/>
+
+	  <Function name="Lower" version="7"/>
+	  <Function name="Hogere" version="7"/>
+	  <Function name="Inférieur" version="7"/>
+	  <Function name="Vorgänger" version="7"/>
+	  <Function name="Inf" version="7"/>
+	  <Function name="前方" version="7"/>
+	  <Function name="Inferior" version="7"/>
+	  <Function name="Abajo" version="7"/>
+	  <Function name="lägre" version="7"/>
+	  <Function name="向下" version="7"/>
+	  <Function name="較低" version="7"/>
+
+	  <Function name="Lowercase" version="7"/>
+	  <Function name="kleineLetters" version="7"/>
+	  <Function name="Minuscules" version="7"/>
+	  <Function name="Kleinbuchstaben" version="7"/>
+	  <Function name="Minuscolo" version="7"/>
+	  <Function name="小文字" version="7"/>
+	  <Function name="Minúsculas" version="7"/>
+	  <Function name="Minúsculas" version="7"/>
+	  <Function name="Gemen" version="7"/>
+	  <Function name="小写" version="7"/>
+	  <Function name="小寫" version="7"/>
+
+	  <Function name="LunarDate" version=""/>
+	  <Function name="MondDatum" version=""/>
+	  <Function name="DataLunare" version=""/>
+
+	  <Function name="Max" version="7"/>
+
+	  <Function name="Middle" version="7"/>
+	  <Function name="Extrait" version="7"/>
+	  <Function name="ZeichenMitte" version="7"/>
+	  <Function name="Mezzo" version="7"/>
+
+	  <Function name="MiddleValues" version="7"/>
+	  <Function name="ValeursExtraites" version="7"/>
+	  <Function name="ElementeMitte" version="7"/>
+	  <Function name="ValoriinMezzo" version="7"/>
+
+	  <Function name="MiddleWords" version="7"/>
+	  <Function name="MotsExtraits" version="7"/>
+	  <Function name="WörterMitte" version="7"/>
+	  <Function name="ParoleinMezzo" version="7"/>
+
+	  <Function name="Min" version="7"/>
+
+	  <Function name="Minute" version="7"/>
+	  <Function name="Minutes" version="7"/>
+	  <Function name="Minuten" version="7"/>
+	  <Function name="Minuti" version="7"/>
+	  <Function name="Minuto" version="7"/>
+
+	  <Function name="Mod" version="7"/>
+	  <Function name="Modulo" version="7"/>
+
+	  <Function name="Month" version="7"/>
+	  <Function name="Mois" version="7"/>
+	  <Function name="MonatZahl" version="7"/>
+	  <Function name="Mese" version="7"/>
+	  <Function name="Mês" version="7"/>
+
+	  <Function name="MonthName" version="7"/>
+	  <Function name="NomMois" version="7"/>
+	  <Function name="MonatName" version="7"/>
+	  <Function name="NomeMese" version="7"/>
+
+	  <Function name="MonthNameJ" version="7"/>
+	  <Function name="NomMoisJ" version="7"/>
+	  <Function name="MonatsNameJap" version="7"/>
+	  <Function name="NomeMeseJ" version="7"/>
+
+	  <Function name="MultiUserState" version="7"/>
+	  <Function name="StatusSamengebruik" version="7"/>
+	  <Function name="EtatMultiUtilisateur" version="7"/>
+	  <Function name="DateiMehrbenutzerstatus" version="7"/>
+	  <Function name="StatoMultiUtente" version="7"/>
+	  <Function name="ファイル共有状態" version="7"/>
+	  <Function name="Fleranvändarstatus" version="7"/>
+	  <Function name="多用户状态" version="7"/>
+	  <Function name="多重使用者狀態" version="7"/>
+
+	  <Function name="NetworkProtocol" version="7"/>
+	  <Function name="NetwerkProtocol" version="7"/>
+	  <Function name="ProtocoleRéseau" version="7"/>
+	  <Function name="Netzwerkprotokoll" version="7"/>
+	  <Function name="ProtocolloRete" version="7"/>
+	  <Function name="ネットワ-クプロトコル" version="7"/>
+	  <Function name="Nätverksprotokoll" version="7"/>
+	  <Function name="网络协议" version="7"/>
+	  <Function name="網路通訊協定" version="7"/>
+
+	  <Function name="not" version="7"/>
+	  <Function name="NICHT" version="7"/>
+
+	  <Function name="NPV" version="7"/>
+	  <Function name="Npv " version="7"/>
+	  <Function name="NBW" version="7"/>
+	  <Function name="VPN" version="7"/>
+
+	  <Function name="NumToJText" version="7"/>
+	  <Function name="NombreVersTexteJ" version="7"/>
+	  <Function name="ZahlZuTextJ" version="7"/>
+	  <Function name="NumeroATestoJ" version="7"/>
+
+	  <Function name="OEM" version="7"/>
+
+	  <Function name="or" version="7"/>
+	  <Function name="ODER" version="7"/>
+
+	  <Function name="Other" version="7"/>
+	  <Function name="Overige" version="7"/>
+	  <Function name="Autre" version="7"/>
+	  <Function name="Sonstiges" version="7"/>
+	  <Function name="Altro" version="7"/>
+	  <Function name="その他" version="7"/>
+	  <Function name="Outro" version="7"/>
+	  <Function name="Otro" version="7"/>
+	  <Function name="Övrig" version="7"/>
+	  <Function name="其他" version="7"/>
+	  <Function name="其他" version="7"/>
+
+	  <Function name="PageNumber" version="7"/>
+	  <Function name="PaginaNummer" version="7"/>
+	  <Function name="NuméroPage" version="7"/>
+	  <Function name="Seitennummer" version="7"/>
+	  <Function name="NumeroPagina" version="7"/>
+	  <Function name="ペ-ジ番号" version="7"/>
+	  <Function name="Sidnummer" version="7"/>
+	  <Function name="页码" version="7"/>
+	  <Function name="頁碼" version="7"/>
+
+	  <Function name="PatternCount" version="7"/>
+	  <Function name="Occurrences" version="7"/>
+	  <Function name="MusterAnzahl" version="7"/>
+	  <Function name="ContaRicorrenze" version="7"/>
+
+	  <Function name="PersistentID" version="12"/>
+	  <Function name="IDPersistant" version="12"/>
+	  <Function name="IDPersistente" version="12"/>
+	  <Function name="持続 ID" version="12"/>
+	  <Function name="固定ID" version="12"/>
+	  <Function name="固定ID" version="12"/>
+
+	  <Function name="Pi" version="7"/>
+
+	  <Function name="Plain" version="7"/>
+	  <Function name="Standaard" version="7"/>
+	  <Function name="Standard" version="7"/>
+	  <Function name="Standard" version="7"/>
+	  <Function name="Normale" version="7"/>
+	  <Function name="標準" version="7"/>
+	  <Function name="Simples" version="7"/>
+	  <Function name="TextoComún" version="7"/>
+	  <Function name="Normal" version="7"/>
+	  <Function name="无格式" version="7"/>
+	  <Function name="普通" version="7"/>
+
+	  <Function name="PMT" version="7"/>
+	  <Function name="Remboursement" version="7"/>
+	  <Function name="KR" version="7"/>
+	  <Function name="PAG" version="7"/>
+
+	  <Function name="Position" version="7"/>
+	  <Function name="Posizione" version="7"/>
+
+	  <Function name="PreferencesPath" version="8"/>
+	  <Function name="Standaardbestandslocatie" version="8"/>
+	  <Function name="CheminPréférences" version="8"/>
+	  <Function name="EinstellungenPfad" version="8"/>
+	  <Function name="PercorsoPreferenze" version="8"/>
+	  <Function name="環境設定パス" version="8"/>
+	  <Function name="Inställningssökväg" version="8"/>
+	  <Function name="参数路径" version="8"/>
+	  <Function name="喜好設定路徑" version="8"/>
+
+	  <Function name="PrinterName" version="7"/>
+	  <Function name="PrinterNaam" version="7"/>
+	  <Function name="NomImprimante" version="7"/>
+	  <Function name="Druckername" version="7"/>
+	  <Function name="NomeStampante" version="7"/>
+	  <Function name="プリンタ名" version="7"/>
+	  <Function name="Skrivarnamn" version="7"/>
+	  <Function name="打印机名称" version="7"/>
+	  <Function name="印表機名稱" version="7"/>
+
+	  <Function name="Proper" version="7"/>
+	  <Function name="NomPropre" version="7"/>
+	  <Function name="GroßKleinbuchstaben" version="7"/>
+	  <Function name="Proprio" version="7"/>
+
+	  <Function name="PV" version="7"/>
+	  <Function name="Va" version="7"/>
+	  <Function name="BW" version="7"/>
+	  <Function name="VP" version="7"/>
+
+	  <Function name="QuickFindText" version="11"/>
+	  <Function name="TekstSnelZoeken" version="11"/>
+	  <Function name="TexteRechercheRapide" version="11"/>
+	  <Function name="SchnellsucheText" version="11"/>
+	  <Function name="TestoRicercaRapida" version="11"/>
+	  <Function name="クイック検索テキスト" version="11"/>
+	  <Function name="Snabbsökningstext" version="11"/>
+	  <Function name="快速查找文本" version="11"/>
+	  <Function name="快速尋找文字" version="11"/>
+
+	  <Function name="Quote" version="7"/>
+	  <Function name="Citation" version="7"/>
+	  <Function name="Zitat" version="7"/>
+	  <Function name="Citazione" version="7"/>
+
+	  <Function name="Radians" version="7"/>
+	  <Function name="Bogenmaß" version="7"/>
+	  <Function name="Radianti" version="7"/>
+
+	  <Function name="Random" version="7"/>
+	  <Function name="Alea" version="7"/>
+	  <Function name="Zufall" version="7"/>
+	  <Function name="Casuale" version="7"/>
+
+	  <Function name="RecordAccess" version="7"/>
+	  <Function name="RecordToegang" version="7"/>
+	  <Function name="AccèsEnreg" version="7"/>
+	  <Function name="DatensatzBerechtigungen" version="7"/>
+	  <Function name="AccessoRecord" version="7"/>
+	  <Function name="レコ-ドアクセス" version="7"/>
+	  <Function name="Postbehörighet" version="7"/>
+	  <Function name="记录访问权限" version="7"/>
+	  <Function name="記錄存取" version="7"/>
+
+	  <Function name="RecordID" version="7"/>
+	  <Function name="IDEnreg" version="7"/>
+	  <Function name="DatensatzIDNr" version="7"/>
+	  <Function name="IDRecord" version="7"/>
+	  <Function name="レコ-ド ID" version="7"/>
+	  <Function name="PostID" version="7"/>
+	  <Function name="记录标识" version="7"/>
+	  <Function name="記錄 ID" version="7"/>
+
+	  <Function name="RecordModificationCount" version="7"/>
+	  <Function name="TellingRecordwijzigingen" version="7"/>
+	  <Function name="NombreModificationsEnreg" version="7"/>
+	  <Function name="DatensatzÄnderungenAnzahl" version="7"/>
+	  <Function name="ContoModificaRecord" version="7"/>
+	  <Function name="レコ-ド編集回数" version="7"/>
+	  <Function name="AntalPoständringar" version="7"/>
+	  <Function name="记录修改次数" version="7"/>
+	  <Function name="記錄修改計數" version="7"/>
+
+	  <Function name="RecordNumber" version="7"/>
+	  <Function name="RecordNummer" version="7"/>
+	  <Function name="NuméroEnreg" version="7"/>
+	  <Function name="DatensatzPositionInErgebnismenge" version="7"/>
+	  <Function name="NumeroRecord" version="7"/>
+	  <Function name="レコ-ド番号" version="7"/>
+	  <Function name="Postnummer" version="7"/>
+	  <Function name="记录编号" version="7"/>
+	  <Function name="記錄編號" version="7"/>
+
+	  <Function name="RecordOpenCount" version="8"/>
+	  <Function name="TellerOpenRecords" version="8"/>
+	  <Function name="NombreEnregOuverts" version="8"/>
+	  <Function name="DatensatzOffenAnzahl" version="8"/>
+	  <Function name="ConteggioRecordAperti" version="8"/>
+	  <Function name="開いているレコ-ド数" version="8"/>
+	  <Function name="AntalÖppnaPoster" version="8"/>
+	  <Function name="打开记录的个数" version="8"/>
+	  <Function name="記錄開啟計數" version="8"/>
+
+	  <Function name="RecordOpenState" version="8"/>
+	  <Function name="StatusOpenRecords" version="8"/>
+	  <Function name="EtatEnregOuvert" version="8"/>
+	  <Function name="DatensatzOffenStatus" version="8"/>
+	  <Function name="StatoRecordAperti" version="8"/>
+	  <Function name="レコ-ドのオ-プン状態" version="8"/>
+	  <Function name="ÖppenPoststatus" version="8"/>
+	  <Function name="打开记录的状态" version="8"/>
+	  <Function name="記錄開啟狀態" version="8"/>
+
+	  <Function name="RelationInfo" version="7" indirectionType="Fields" />
+	  <Function name="InfosLien" version="7" indirectionType="Fields" />
+	  <Function name="BeziehungsInfo" version="7" indirectionType="Fields" />
+	  <Function name="InfoRelazione" version="7" indirectionType="Fields" />
+
+	  <Function name="Replace" version="7"/>
+	  <Function name="Remplace" version="7"/>
+	  <Function name="Ersetzen" version="7"/>
+	  <Function name="Sost" version="7"/>
+
+	  <Function name="RequestCount" version="7"/>
+	  <Function name="TellingVerzoeken" version="7"/>
+	  <Function name="NombreRequêtes" version="7"/>
+	  <Function name="AnzahlAbfrageEinträge" version="7"/>
+	  <Function name="ContoRichieste" version="7"/>
+	  <Function name="検索条件数" version="7"/>
+	  <Function name="AntalSökningar" version="7"/>
+	  <Function name="请求个数" version="7"/>
+	  <Function name="要求計數" version="7"/>
+
+	  <Function name="RequestOmitState" version="8"/>
+	  <Function name="StatusGevraagdeWeglaatopdracht" version="8"/>
+	  <Function name="EtatIgnorerRequête" version="8"/>
+	  <Function name="AbfrageAusschlussStatus" version="8"/>
+	  <Function name="StatoOmettiRichiesta" version="8"/>
+	  <Function name="検索条件除外状態" version="8"/>
+	  <Function name="SökpostUteslutstatus" version="8"/>
+	  <Function name="请求忽略状态" version="8"/>
+	  <Function name="要求省略狀態" version="8"/>
+
+	  <Function name="RGB" version="7"/>
+	  <Function name="RVB" version="7"/>
+
+	  <Function name="Right" version="7"/>
+	  <Function name="Fin" version="7"/>
+	  <Function name="ZeichenRechts" version="7"/>
+	  <Function name="Destra" version="7"/>
+
+	  <Function name="RightValues" version="7"/>
+	  <Function name="ValeursFin" version="7"/>
+	  <Function name="ElementeRechts" version="7"/>
+	  <Function name="ValoriaDestra" version="7"/>
+
+	  <Function name="RightWords" version="7"/>
+	  <Function name="MotsFin" version="7"/>
+	  <Function name="WörterRechts" version="7"/>
+	  <Function name="ParoleaDestra" version="7"/>
+
+	  <Function name="Roman" version="7"/>
+	  <Function name="Romeins" version="7"/>
+	  <Function name="Latin" version="7"/>
+	  <Function name="Lateinisch" version="7"/>
+	  <Function name="Romano" version="7"/>
+	  <Function name="英語" version="7"/>
+	  <Function name="Romano" version="7"/>
+	  <Function name="Latin" version="7"/>
+	  <Function name="罗马文" version="7"/>
+	  <Function name="羅馬文" version="7"/>
+
+	  <Function name="RomanHankaku" version="7"/>
+	  <Function name="LateinischZuHankaku" version="7"/>
+
+	  <Function name="RomanZenkaku" version="7"/>
+	  <Function name="LateinischZuZenkaku" version="7"/>
+
+	  <Function name="Round" version="7"/>
+	  <Function name="Arrondi" version="7"/>
+	  <Function name="Runden" version="7"/>
+	  <Function name="Arrotonda" version="7"/>
+
+	  <Function name="ScreenDepth" version="7"/>
+	  <Function name="SchermDiepte" version="7"/>
+	  <Function name="ProfondeurEcran" version="7"/>
+	  <Function name="Bildschirmtiefe" version="7"/>
+	  <Function name="ProfonditàSchermo" version="7"/>
+	  <Function name="スクリ-ン深さ" version="7"/>
+	  <Function name="Skärmbitdjup" version="7"/>
+	  <Function name="屏幕色度" version="7"/>
+	  <Function name="螢幕深度" version="7"/>
+
+	  <Function name="ScreenHeight" version="7"/>
+	  <Function name="SchermHoogte" version="7"/>
+	  <Function name="HauteurEcran" version="7"/>
+	  <Function name="Bildschirmhöhe" version="7"/>
+	  <Function name="AltezzaSchermo" version="7"/>
+	  <Function name="スクリ-ン高さ" version="7"/>
+	  <Function name="Skärmhöjd" version="7"/>
+	  <Function name="屏幕高度" version="7"/>
+	  <Function name="螢幕高度" version="7"/>
+
+	  <Function name="ScreenWidth" version="7"/>
+	  <Function name="SchermBreedte" version="7"/>
+	  <Function name="LargeurEcran" version="7"/>
+	  <Function name="Bildschirmbreite" version="7"/>
+	  <Function name="LarghezzaSchermo" version="7"/>
+	  <Function name="スクリ-ン幅" version="7"/>
+	  <Function name="Skärmbredd" version="7"/>
+	  <Function name="屏幕宽度" version="7"/>
+	  <Function name="螢幕寬度" version="7"/>
+
+	  <Function name="ScriptIDs" version="7"/>
+	  <Function name="IDScript" version="7"/>
+	  <Function name="IDScript" version="7"/>
+
+	  <Function name="ScriptName" version="7"/>
+	  <Function name="ScriptNaam" version="7"/>
+	  <Function name="NomScript" version="7"/>
+	  <Function name="NomeScript" version="7"/>
+	  <Function name="スクリプト名" version="7"/>
+	  <Function name="Manusnamn" version="7"/>
+	  <Function name="脚本名称" version="7"/>
+	  <Function name="指令碼名稱" version="7"/>
+
+	  <Function name="ScriptNames" version="7"/>
+	  <Function name="NomsScripts" version="7"/>
+	  <Function name="ScriptNamen" version="7"/>
+	  <Function name="NomeScript" version="7"/>
+
+	  <Function name="ScriptParameter" version="7"/>
+	  <Function name="ParamètreScript" version="7"/>
+	  <Function name="ParametroScript" version="7"/>
+	  <Function name="スクリプト引数" version="7"/>
+	  <Function name="Manusparameter" version="7"/>
+	  <Function name="脚本参数" version="7"/>
+	  <Function name="指令碼參數" version="7"/>
+
+	  <Function name="ScriptResult" version="8"/>
+	  <Function name="ScriptResultaat" version="8"/>
+	  <Function name="RésultatScript" version="8"/>
+	  <Function name="ScriptErgebnis" version="8"/>
+	  <Function name="RisultatoScript" version="8"/>
+	  <Function name="スクリプトの結果" version="8"/>
+	  <Function name="Manusresultat" version="8"/>
+	  <Function name="脚本结果" version="8"/>
+	  <Function name="指令碼結果" version="8"/>
+
+	  <Function name="Seconds" version="7"/>
+	  <Function name="Secondes" version="7"/>
+	  <Function name="Sekunden" version="7"/>
+	  <Function name="Secondi" version="7"/>
+	  <Function name="Segundos" version="7"/>
+
+	  <Function name="Self" version="9"/>
+	  <Function name="Contenu" version="9"/>
+	  <Function name="Selbst" version="9"/>
+	  <Function name="Egenvärde" version="9"/>
+
+	  <Function name="SerialIncrement" version="7"/>
+	  <Function name="IncrementSerie" version="7"/>
+	  <Function name="FortlNrInTextÄndern" version="7"/>
+	  <Function name="IncrementoSeriale" version="7"/>
+
+	  <Function name="SetPrecision" version="7"/>
+	  <Function name="Precision" version="7"/>
+	  <Function name="ErweitereGenauigkeit" version="7"/>
+	  <Function name="ImpostaPrecisione" version="7"/>
+
+	  <Function name="ShiftJIS" version="7"/>
+	  <Function name="MAJJIS" version="7"/>
+	  <Function name="シフト JIS" version="7"/>
+	  <Function name="SkiftJIS" version="7"/>
+
+	  <Function name="Sign" version="7"/>
+	  <Function name="Signe" version="7"/>
+	  <Function name="Signum" version="7"/>
+	  <Function name="Segno" version="7"/>
+
+	  <Function name="SimplifiedChinese" version="7"/>
+	  <Function name="VereenvoudigdChinees" version="7"/>
+	  <Function name="ChinoisSimplifié" version="7"/>
+	  <Function name="ChinesischKurzzeichen" version="7"/>
+	  <Function name="CineseSemplificato" version="7"/>
+	  <Function name="簡体字中国語" version="7"/>
+	  <Function name="ChinêsSimplificado" version="7"/>
+	  <Function name="FörenkladKinesisk" version="7"/>
+	  <Function name="简体中文" version="7"/>
+	  <Function name="簡體中文" version="7"/>
+
+	  <Function name="Sin" version="7"/>
+
+	  <Function name="SmallCaps" version="7"/>
+	  <Function name="KleinKapitaal" version="7"/>
+	  <Function name="PetitesMajuscules" version="7"/>
+	  <Function name="Kapitälchen" version="7"/>
+	  <Function name="Maiuscoletto" version="7"/>
+	  <Function name="スモ-ルキャップ" version="7"/>
+	  <Function name="Versalete" version="7"/>
+	  <Function name="Versalitas" version="7"/>
+	  <Function name="Kapitäler" version="7"/>
+	  <Function name="小大写" version="7"/>
+	  <Function name="小型大寫字" version="7"/>
+
+	  <Function name="SolarDate" version=""/>
+	  <Function name="SonneDatum" version=""/>
+	  <Function name="DataSolare" version=""/>
+
+	  <Function name="Sqrt" version="7"/>
+	  <Function name="Racine" version="7"/>
+	  <Function name="Wurzel" version="7"/>
+	  <Function name="RadiceQuad" version="7"/>
+
+	  <Function name="StatusAreaState" version="7"/>
+	  <Function name="StatusStatuspaneel" version="7"/>
+	  <Function name="EtatZoneOutils" version="7"/>
+	  <Function name="StatusbereichSichtbarStatus" version="7"/>
+	  <Function name="AreaStatoCorrente" version="7"/>
+	  <Function name="ステ-タスエリア状態" version="7"/>
+	  <Function name="Statusområdesläge" version="7"/>
+	  <Function name="状态区域状态" version="7"/>
+	  <Function name="狀態區域狀態" version="7"/>
+
+	  <Function name="StDev" version="7"/>
+	  <Function name="EcartType" version="7"/>
+	  <Function name="StAbw" version="7"/>
+	  <Function name="DevSt" version="7"/>
+
+	  <Function name="StDevP" version="7"/>
+	  <Function name="EcartTypePop" version="7"/>
+	  <Function name="StAbwG" version="7"/>
+	  <Function name="DevStP" version="7"/>
+
+	  <Function name="Strikethrough" version="7"/>
+	  <Function name="Doorgehaald" version="7"/>
+	  <Function name="Barré" version="7"/>
+	  <Function name="Durchgestrichen" version="7"/>
+	  <Function name="Barrato" version="7"/>
+	  <Function name="字消し線" version="7"/>
+	  <Function name="Riscado" version="7"/>
+	  <Function name="Tachado" version="7"/>
+	  <Function name="Överstruken" version="7"/>
+	  <Function name="删除线" version="7"/>
+	  <Function name="刪除線" version="7"/>
+
+	  <Function name="Subscript" version="7"/>
+	  <Function name="Indice" version="7"/>
+	  <Function name="Tiefgestellt" version="7"/>
+	  <Function name="Pedice" version="7"/>
+	  <Function name="下付き" version="7"/>
+	  <Function name="Subscrito" version="7"/>
+	  <Function name="Subíndice" version="7"/>
+	  <Function name="Nedsänkt" version="7"/>
+	  <Function name="下标" version="7"/>
+	  <Function name="下標" version="7"/>
+
+	  <Function name="Substitute" version="7"/>
+	  <Function name="Substituer" version="7"/>
+	  <Function name="Austauschen" version="7"/>
+	  <Function name="CercaeSost" version="7"/>
+
+	  <Function name="Sum" version="7"/>
+	  <Function name="Somme" version="7"/>
+	  <Function name="Summe" version="7"/>
+	  <Function name="Somma" version="7"/>
+
+	  <Function name="Superscript" version="7"/>
+	  <Function name="Exposant" version="7"/>
+	  <Function name="Hochgestellt" version="7"/>
+	  <Function name="Apice" version="7"/>
+	  <Function name="上付き" version="7"/>
+	  <Function name="Sobrescrito" version="7"/>
+	  <Function name="Superíndice" version="7"/>
+	  <Function name="Upphöjd" version="7"/>
+	  <Function name="上标" version="7"/>
+	  <Function name="上標" version="7"/>
+
+	  <Function name="Symbol" version="7"/>
+	  <Function name="Symbool" version="7"/>
+	  <Function name="SYMBOLE" version="7"/>
+	  <Function name="Simbolo" version="7"/>
+	  <Function name="記号" version="7"/>
+	  <Function name="Símbolo" version="7"/>
+	  <Function name="符号" version="7"/>
+	  <Function name="代號" version="7"/>
+
+	  <Function name="SystemDrive" version="8"/>
+	  <Function name="SysteemStation" version="8"/>
+	  <Function name="DisqueSystème" version="8"/>
+	  <Function name="SystemLaufwerk" version="8"/>
+	  <Function name="DriveSistema" version="8"/>
+	  <Function name="システムドライブ" version="8"/>
+	  <Function name="Systemenhet" version="8"/>
+	  <Function name="系统驱动器" version="8"/>
+	  <Function name="系統磁碟" version="8"/>
+
+	  <Function name="SystemIPAddress" version="7"/>
+	  <Function name="SysteemIPadres" version="7"/>
+	  <Function name="AdresseIPSystème" version="7"/>
+	  <Function name="SystemIPAdresse" version="7"/>
+	  <Function name="IndirizzoIPSistema" version="7"/>
+	  <Function name="システム IP アドレス" version="7"/>
+	  <Function name="SystemIPadress" version="7"/>
+	  <Function name="系统IP地址" version="7"/>
+	  <Function name="系統 IP 位址" version="7"/>
+
+	  <Function name="SystemLanguage" version="7"/>
+	  <Function name="SysteemTaal" version="7"/>
+	  <Function name="LangueSystème" version="7"/>
+	  <Function name="SystemSprache" version="7"/>
+	  <Function name="LinguaSistema" version="7"/>
+	  <Function name="システム言語" version="7"/>
+	  <Function name="Systemspråk" version="7"/>
+	  <Function name="系统语言" version="7"/>
+	  <Function name="系統語言" version="7"/>
+
+	  <Function name="SystemNICAddress" version="7"/>
+	  <Function name="SysteemNICadres" version="7"/>
+	  <Function name="AdresseNICSystème" version="7"/>
+	  <Function name="SystemNICAdresse" version="7"/>
+	  <Function name="IndirizzoNICSistema" version="7"/>
+	  <Function name="システム NIC アドレス" version="7"/>
+	  <Function name="SystemNICadress" version="7"/>
+	  <Function name="系统网络硬件地址" version="7"/>
+	  <Function name="系統 NIC 位址" version="7"/>
+
+	  <Function name="SystemPlatform" version="7"/>
+	  <Function name="SysteemPlatform" version="7"/>
+	  <Function name="PlateformeSystème" version="7"/>
+	  <Function name="SystemPlattform" version="7"/>
+	  <Function name="PiattaformaSistema" version="7"/>
+	  <Function name="システムプラットフォ-ム" version="7"/>
+	  <Function name="Systemplattform" version="7"/>
+	  <Function name="系统平台" version="7"/>
+	  <Function name="系統平台" version="7"/>
+
+	  <Function name="SystemVersion" version="7"/>
+	  <Function name="SysteemVersie" version="7"/>
+	  <Function name="VersionSystème" version="7"/>
+	  <Function name="VersioneSistema" version="7"/>
+	  <Function name="システムバ-ジョン" version="7"/>
+	  <Function name="系统版本" version="7"/>
+	  <Function name="系統版本" version="7"/>
+
+	  <Function name="TableIDs" version="7"/>
+	  <Function name="IDTable" version="7"/>
+	  <Function name="TabellenIDs" version="7"/>
+	  <Function name="IDTabelle" version="7"/>
+
+	  <Function name="TableNames" version="7"/>
+	  <Function name="NomsTables" version="7"/>
+	  <Function name="TabellenNamen" version="7"/>
+	  <Function name="NomiTabelle" version="7"/>
+
+	  <Function name="Tan" version="7"/>
+
+	  <Function name="TemporaryPath" version="9"/>
+	  <Function name="TijdelijkPad" version="9"/>
+	  <Function name="CheminTemporaire" version="9"/>
+	  <Function name="TemporärerPfad" version="9"/>
+	  <Function name="PercorsoTemporaneo" version="9"/>
+	  <Function name="テンポラリパス" version="9"/>
+	  <Function name="TemporärSökväg" version="9"/>
+	  <Function name="临时路径" version="9"/>
+	  <Function name="暫存路徑" version="9"/>
+
+	  <Function name="TextColor" version="7"/>
+	  <Function name="CouleurTexte" version="7"/>
+	  <Function name="TextFarbe" version="7"/>
+	  <Function name="ColoreTesto" version="7"/>
+
+	  <Function name="TextColorRemove" version="8"/>
+	  <Function name="SupprimerCouleurTexte" version="8"/>
+	  <Function name="TextFarbeEntfernen" version="8"/>
+	  <Function name="RimuoviColoreTesto" version="8"/>
+
+	  <Function name="TextFont" version="7"/>
+	  <Function name="PoliceTexte" version="7"/>
+	  <Function name="FontTesto" version="7"/>
+
+	  <Function name="TextFontRemove" version="8"/>
+	  <Function name="SupprimerPoliceTexte" version="8"/>
+	  <Function name="TextFontEntfernen" version="8"/>
+	  <Function name="RimuoviFontTesto" version="8"/>
+
+	  <Function name="TextFormatRemove" version="8"/>
+	  <Function name="SupprimerFormatTexte" version="8"/>
+	  <Function name="TextFormatEntfernen" version="8"/>
+	  <Function name="RimuoviFormatoTesto" version="8"/>
+
+	  <Function name="TextRulerVisible" version="8"/>
+	  <Function name="TekstliniaalZichtbaar" version="8"/>
+	  <Function name="RégletteTexteVisible" version="8"/>
+	  <Function name="TextlinealSichtbar" version="8"/>
+	  <Function name="RighelloTestoVisibile" version="8"/>
+	  <Function name="テキスト定規表示" version="8"/>
+	  <Function name="Textlinjalvisning" version="8"/>
+	  <Function name="标尺可见状态" version="8"/>
+	  <Function name="可以看見文字尺規" version="8"/>
+
+	  <Function name="TextSize" version="7"/>
+	  <Function name="TailleTexte" version="7"/>
+	  <Function name="TextGröße" version="7"/>
+	  <Function name="DimensioniTesto" version="7"/>
+
+	  <Function name="TextSizeRemove" version="8"/>
+	  <Function name="SupprimerTailleTexte" version="8"/>
+	  <Function name="TextGrößeEntfernen" version="8"/>
+	  <Function name="RimuoviDimensioneTesto" version="8"/>
+
+	  <Function name="TextStyleAdd" version="7"/>
+	  <Function name="AjoutStyleTexte" version="7"/>
+	  <Function name="TextStilZufügen" version="7"/>
+	  <Function name="StileTestoAgg" version="7"/>
+
+	  <Function name="TextStyleRemove" version="7"/>
+	  <Function name="SupprimerStyleTexte" version="7"/>
+	  <Function name="TextStilEntfernen" version="7"/>
+	  <Function name="StileTestoRim" version="7"/>
+
+	  <Function name="Time" version="7"/>
+	  <Function name="Heure" version="7"/>
+	  <Function name="Zeit" version="7"/>
+	  <Function name="Ora" version="7"/>
+
+	  <Function name="Timestamp" version="7"/>
+	  <Function name="Horodatage" version="7"/>
+	  <Function name="ZeitStempel" version="7"/>
+	  <Function name="Indicatore data e ora" version="7"/>
+
+	  <Function name="Titlecase" version="7"/>
+	  <Function name="Koppen" version="7"/>
+	  <Function name="NomPropre" version="7"/>
+	  <Function name="GroßKlein" version="7"/>
+	  <Function name="Titolo" version="7"/>
+	  <Function name="タイトル" version="7"/>
+	  <Function name="Primeira letra de cada pal. maiúsc." version="7"/>
+	  <Function name="Título" version="7"/>
+	  <Function name="Versalgemen" version="7"/>
+	  <Function name="首字母大写" version="7"/>
+	  <Function name="首字母大寫" version="7"/>
+
+	  <Function name="TotalRecordCount" version="7"/>
+	  <Function name="TellingTotaalaantalRecords" version="7"/>
+	  <Function name="NombreEnregTotal" version="7"/>
+	  <Function name="AnzahlDatensätzeGesamt" version="7"/>
+	  <Function name="ContoRecordTotale" version="7"/>
+	  <Function name="レコ-ド総数" version="7"/>
+	  <Function name="TotaltAntalPoster" version="7"/>
+	  <Function name="总记录数" version="7"/>
+	  <Function name="記錄總筆數" version="7"/>
+
+	  <Function name="TraditionalChinese" version="7"/>
+	  <Function name="TraditioneelChinees" version="7"/>
+	  <Function name="ChinoisTraditionnel" version="7"/>
+	  <Function name="ChinesischLangzeichen" version="7"/>
+	  <Function name="CineseTradizionale" version="7"/>
+	  <Function name="繁体字中国語" version="7"/>
+	  <Function name="ChinêsTradicional" version="7"/>
+	  <Function name="TraditionellKinesisk" version="7"/>
+	  <Function name="繁体中文" version="7"/>
+	  <Function name="繁體中文" version="7"/>
+
+	  <Function name="TriggerCurrentTabPanel" version="12"/>
+	  <Function name="HuidigeTabbladActivering" version="12"/>
+	  <Function name="OngletActuelDéclencheur" version="12"/>
+	  <Function name="TriggerAktuellesRegisterfeld" version="12"/>
+	  <Function name="TriggerPannelloSchedaCorrente" version="12"/>
+	  <Function name="トリガ現在のタブパネル" version="12"/>
+	  <Function name="TriggerFörAktuellFlikpanel" version="12"/>
+	  <Function name="触发当前选项卡面板" version="12"/>
+	  <Function name="觸發目前索引標籤" version="12"/>
+	  <Function name="TriggerCurrentPanel" version="12"/>
+
+	  <Function name="TriggerKeystroke" version="10"/>
+	  <Function name="ToetsaanslagActivering" version="10"/>
+	  <Function name="FrappeClavierDéclencheur" version="10"/>
+	  <Function name="TriggerTastendruck" version="10"/>
+	  <Function name="PressionetastoTrigger" version="10"/>
+	  <Function name="トリガキ-入力" version="10"/>
+	  <Function name="Utlösartangenttryckning" version="10"/>
+	  <Function name="触发器击键" version="10"/>
+	  <Function name="觸發程序按鍵輸入" version="10"/>
+
+	  <Function name="TriggerModifierKeys" version="10"/>
+	  <Function name="CombinatietoetsActivering" version="10"/>
+	  <Function name="TouchesSpécialesDéclencheur" version="10"/>
+	  <Function name="TriggerKurztasten" version="10"/>
+	  <Function name="ChiaviModificaTrigger" version="10"/>
+	  <Function name="トリガ修飾キ-" version="10"/>
+	  <Function name="Utlösarmodifieringstangent" version="10"/>
+	  <Function name="触发器辅助键" version="10"/>
+	  <Function name="觸發程序輔助按鍵" version="10"/>
+
+	  <Function name="TriggerTargetTabPanel" version="12"/>
+	  <Function name="DoelTabbladActivering" version="12"/>
+	  <Function name="OngletCibleDéclencheur" version="12"/>
+	  <Function name="TriggerZielregisterfeld" version="12"/>
+	  <Function name="TriggerPannelloSchedaTarget" version="12"/>
+	  <Function name="トリガタ-ゲットタブパネル" version="12"/>
+	  <Function name="TriggerFörNyFlikpanel" version="12"/>
+	  <Function name="触发目标选项卡面板" version="12"/>
+	  <Function name="觸發目標索引標籤" version="12"/>
+	  <Function name="TriggerTargetPanel" version="12"/>
+
+	  <Function name="Trim" version="7"/>
+	  <Function name="SupprimerEspace" version="7"/>
+	  <Function name="Trimme" version="7"/>
+	  <Function name="Refila" version="7"/>
+
+	  <Function name="TrimAll" version="7"/>
+	  <Function name="SupprimerTypeEspace" version="7"/>
+	  <Function name="TrimmeAlle" version="7"/>
+	  <Function name="RefilaTutto" version="7"/>
+
+	  <Function name="True" version="7"/>
+	  <Function name="Wahr" version="7"/>
+	  <Function name="真" version="7"/>
+
+	  <Function name="Truncate" version="7"/>
+	  <Function name="Tronque" version="7"/>
+	  <Function name="Abschneiden" version="7"/>
+	  <Function name="Tronca" version="7"/>
+
+	  <Function name="Underline" version="7"/>
+	  <Function name="Onderstreept" version="7"/>
+	  <Function name="Souligné" version="7"/>
+	  <Function name="Unterstrichen" version="7"/>
+	  <Function name="Sottolineato" version="7"/>
+	  <Function name="下線" version="7"/>
+	  <Function name="Sublinhado" version="7"/>
+	  <Function name="Subrayado" version="7"/>
+	  <Function name="Understruken" version="7"/>
+	  <Function name="下划线" version="7"/>
+	  <Function name="底線" version="7"/>
+
+	  <Function name="Upper" version="7"/>
+	  <Function name="Majuscule" version="7"/>
+	  <Function name="Großbuchstaben" version="7"/>
+	  <Function name="Maiuscolo" version="7"/>
+
+	  <Function name="Uppercase" version="7"/>
+	  <Function name="Hoofdletters" version="7"/>
+	  <Function name="Majuscules" version="7"/>
+	  <Function name="Großbuchstaben" version="7"/>
+	  <Function name="Maiuscolo" version="7"/>
+	  <Function name="大文字" version="7"/>
+	  <Function name="Maiúsculas" version="7"/>
+	  <Function name="Mayúsculas" version="7"/>
+	  <Function name="Versal" version="7"/>
+	  <Function name="大写" version="7"/>
+	  <Function name="大寫" version="7"/>
+
+	  <Function name="UserCount" version="7"/>
+	  <Function name="TellingGebruikers" version="7"/>
+	  <Function name="NombreUtilisateurs" version="7"/>
+	  <Function name="AnzahlAktiveBenutzer" version="7"/>
+	  <Function name="ContoUtenti" version="7"/>
+	  <Function name="ユ-ザ数" version="7"/>
+	  <Function name="AntalAnvändare" version="7"/>
+	  <Function name="用户个数" version="7"/>
+	  <Function name="使用者計數" version="7"/>
+
+	  <Function name="UserName" version="7"/>
+	  <Function name="GebruikersNaam" version="7"/>
+	  <Function name="NomUtilisateur" version="7"/>
+	  <Function name="ProgrammBenutzername" version="7"/>
+	  <Function name="NomeUtente" version="7"/>
+	  <Function name="ユ-ザ名" version="7"/>
+	  <Function name="Användarnamn" version="7"/>
+	  <Function name="用户名" version="7"/>
+	  <Function name="使用者名稱" version="7"/>
+
+	  <Function name="UseSystemFormatsState" version="8"/>
+	  <Function name="StatusSysteeminstellingenGebruiken" version="8"/>
+	  <Function name="EtatUtiliserFormatsSystème" version="8"/>
+	  <Function name="SystemformateVerwendenStatus" version="8"/>
+	  <Function name="StatoUsaFormatiSistema" version="8"/>
+	  <Function name="システム書式使用状態" version="8"/>
+	  <Function name="AnvändSysteminställningarStatus" version="8"/>
+	  <Function name="系统格式状态" version="8"/>
+	  <Function name="使用系統格式狀態" version="8"/>
+
+	  <Function name="UTCmSecs" version=""/>
+
+	  <Function name="UUID" version="12"/>
+	  <Function name="IDUU" version="12"/>
+
+	  <Function name="ValueCount" version="7"/>
+	  <Function name="DecompteValeurs" version="7"/>
+	  <Function name="ElementeAnzahl" version="7"/>
+	  <Function name="ConteggioValore" version="7"/>
+
+	  <Function name="ValueListIDs" version="7"/>
+	  <Function name="IDListeValeurs" version="7"/>
+	  <Function name="WertelistenIDs" version="7"/>
+	  <Function name="IDListaValori" version="7"/>
+
+	  <Function name="ValueListItems" version="7" indirectionType="ValueLists" />
+	  <Function name="ElementsListeValeurs" version="7" indirectionType="ValueLists" />
+	  <Function name="WertelisteEinträge" version="7" indirectionType="ValueLists" />
+	  <Function name="ElementiListeValori" version="7" indirectionType="ValueLists" />
+
+	  <Function name="ValueListNames" version="7"/>
+	  <Function name="NomsListesValeurs" version="7"/>
+	  <Function name="WertelistenNamen" version="7"/>
+	  <Function name="NomeListeValori" version="7"/>
+
+	  <Function name="Variance" version="7"/>
+	  <Function name="Varianz" version="7"/>
+	  <Function name="Variazione" version="7"/>
+
+	  <Function name="VarianceP" version="7"/>
+	  <Function name="VarianzG" version="7"/>
+	  <Function name="VariazioneP" version="7"/>
+
+	  <Function name="VerifyContainer" version="12"/>
+	  <Function name="VerifierConteneur" version="12"/>
+	  <Function name="ContainerPrüfen" version="12"/>
+	  <Function name="VerificaContenitore" version="12"/>
+
+	  <Function name="WeekOfYear" version="7"/>
+	  <Function name="SemaineAnnee" version="7"/>
+	  <Function name="KalenderWoche" version="7"/>
+	  <Function name="SettimanaAnno" version="7"/>
+
+	  <Function name="WeekOfYearFiscal" version="7"/>
+	  <Function name="SemaineExercice" version="7"/>
+	  <Function name="WocheImFiskaljahr" version="7"/>
+	  <Function name="SettimaneAnnoFisc" version="7"/>
+
+	  <Function name="WindowContentHeight" version="7"/>
+	  <Function name="VensterinhoudHoogte" version="7"/>
+	  <Function name="HauteurContenuFenêtre" version="7"/>
+	  <Function name="FensterInhaltHöhe" version="7"/>
+	  <Function name="AltezzaContenutoFinestra" version="7"/>
+	  <Function name="ウインドウ内容高さ" version="7"/>
+	  <Function name="FönsterinnehållHöjd" version="7"/>
+	  <Function name="工作区高度" version="7"/>
+	  <Function name="視窗內容高度" version="7"/>
+
+	  <Function name="WindowContentWidth" version="7"/>
+	  <Function name="VensterinhoudBreedte" version="7"/>
+	  <Function name="LargeurContenuFenêtre" version="7"/>
+	  <Function name="FensterInhaltBreite" version="7"/>
+	  <Function name="LarghezzaContenutoFinestra" version="7"/>
+	  <Function name="ウインドウ内容幅" version="7"/>
+	  <Function name="FönsterinnehållBredd" version="7"/>
+	  <Function name="工作区宽度" version="7"/>
+	  <Function name="視窗內容寬度" version="7"/>
+
+	  <Function name="WindowDesktopHeight" version="7"/>
+	  <Function name="VensterBureaubladHoogte" version="7"/>
+	  <Function name="HauteurFenêtreBureau" version="7"/>
+	  <Function name="FensterSchreibtischHöhe" version="7"/>
+	  <Function name="AltezzaDesktopFinestra" version="7"/>
+	  <Function name="ウインドウデスクトップ高さ" version="7"/>
+	  <Function name="FönsterSkrivbordshöjd" version="7"/>
+	  <Function name="窗口桌面高度" version="7"/>
+	  <Function name="視窗桌面高度" version="7"/>
+
+	  <Function name="WindowDesktopWidth" version="7"/>
+	  <Function name="VensterBureaubladBreedte" version="7"/>
+	  <Function name="LargeurFenêtreBureau" version="7"/>
+	  <Function name="FensterSchreibtischBreite" version="7"/>
+	  <Function name="LarghezzaDesktopFinestra" version="7"/>
+	  <Function name="ウインドウデスクトップ幅" version="7"/>
+	  <Function name="FönsterSkrivbordsbredd" version="7"/>
+	  <Function name="窗口桌面宽度" version="7"/>
+	  <Function name="視窗桌面寬度" version="7"/>
+
+	  <Function name="WindowHeight" version="7"/>
+	  <Function name="VensterHoogte" version="7"/>
+	  <Function name="HauteurFenêtre" version="7"/>
+	  <Function name="Fensterhöhe" version="7"/>
+	  <Function name="AltezzaFinestra" version="7"/>
+	  <Function name="ウインドウ高さ" version="7"/>
+	  <Function name="Fönsterhöjd" version="7"/>
+	  <Function name="窗口高度" version="7"/>
+	  <Function name="視窗高度" version="7"/>
+
+	  <Function name="WindowLeft" version="7"/>
+	  <Function name="VensterLinks" version="7"/>
+	  <Function name="FenêtreGauche" version="7"/>
+	  <Function name="FensterLinks" version="7"/>
+	  <Function name="SinistraFinestra" version="7"/>
+	  <Function name="ウインドウ左位置" version="7"/>
+	  <Function name="FönsterVänsterkant" version="7"/>
+	  <Function name="窗口左边距" version="7"/>
+	  <Function name="視窗左側" version="7"/>
+
+	  <Function name="WindowMode" version="7"/>
+	  <Function name="VensterModus" version="7"/>
+	  <Function name="ModeFenêtre" version="7"/>
+	  <Function name="Fenstermodus" version="7"/>
+	  <Function name="ModoFinestra" version="7"/>
+	  <Function name="ウインドウモ-ド" version="7"/>
+	  <Function name="Fönsterläge" version="7"/>
+	  <Function name="窗口模式" version="7"/>
+	  <Function name="視窗模式" version="7"/>
+
+	  <Function name="WindowName" version="7"/>
+	  <Function name="VensterNaam" version="7"/>
+	  <Function name="NomFenêtre" version="7"/>
+	  <Function name="Fenstername" version="7"/>
+	  <Function name="NomeFinestra" version="7"/>
+	  <Function name="ウインドウ名" version="7"/>
+	  <Function name="Fönsternamn" version="7"/>
+	  <Function name="窗口名称" version="7"/>
+	  <Function name="視窗名稱" version="7"/>
+
+	  <Function name="WindowNames" version="7"/>
+	  <Function name="NomsFenetres" version="7"/>
+	  <Function name="Fensternamen" version="7"/>
+	  <Function name="NomeFinestre" version="7"/>
+
+	  <Function name="WindowStyle" version="12"/>
+	  <Function name="VensterStijl" version="12"/>
+	  <Function name="StyleFenêtre" version="12"/>
+	  <Function name="Fensterstil" version="12"/>
+	  <Function name="StileFinestra" version="12"/>
+	  <Function name="ウインドウスタイル" version="12"/>
+	  <Function name="Fönsterstil" version="12"/>
+	  <Function name="窗口风格" version="12"/>
+	  <Function name="視窗樣式" version="12"/>
+
+	  <Function name="WindowTop" version="7"/>
+	  <Function name="VensterBoven" version="7"/>
+	  <Function name="HautFenêtre" version="7"/>
+	  <Function name="FensterOben" version="7"/>
+	  <Function name="CimaFinestra" version="7"/>
+	  <Function name="ウインドウ上位置" version="7"/>
+	  <Function name="FönsterÖverkant" version="7"/>
+	  <Function name="窗口上边距" version="7"/>
+	  <Function name="視窗上方" version="7"/>
+
+	  <Function name="WindowVisible" version="7"/>
+	  <Function name="VensterZichtbaar" version="7"/>
+	  <Function name="FenêtreVisible" version="7"/>
+	  <Function name="FensterSichtbar" version="7"/>
+	  <Function name="FinestraVisibile" version="7"/>
+	  <Function name="ウインドウ表示" version="7"/>
+	  <Function name="FönsterSynlighet" version="7"/>
+	  <Function name="窗口是否可见" version="7"/>
+	  <Function name="可以看見視窗" version="7"/>
+
+	  <Function name="WindowWidth" version="7"/>
+	  <Function name="VensterBreedte" version="7"/>
+	  <Function name="LargeurFenêtre" version="7"/>
+	  <Function name="Fensterbreite" version="7"/>
+	  <Function name="LarghezzaFinestra" version="7"/>
+	  <Function name="ウインドウ幅" version="7"/>
+	  <Function name="Fönsterbredd" version="7"/>
+	  <Function name="窗口宽度" version="7"/>
+	  <Function name="視窗寬度" version="7"/>
+
+	  <Function name="WindowZoomLevel" version="8"/>
+	  <Function name="ZoomniveauVenster" version="8"/>
+	  <Function name="NiveauZoomFenêtre" version="8"/>
+	  <Function name="FensterZoomStufe" version="8"/>
+	  <Function name="LivelloZoomFinestra" version="8"/>
+	  <Function name="ウインドウのズ-ムレベル" version="8"/>
+	  <Function name="Fönsterzoomnivå" version="8"/>
+	  <Function name="窗口缩放级别" version="8"/>
+	  <Function name="視窗縮放等級" version="8"/>
+
+	  <Function name="WordCount" version="7"/>
+	  <Function name="NombreMots" version="7"/>
+	  <Function name="WörterAnzahl" version="7"/>
+	  <Function name="ContaParole" version="7"/>
+
+	  <Function name="WordUnderline" version="7"/>
+	  <Function name="WoordOnderstreept" version="7"/>
+	  <Function name="MotsSoulignés" version="7"/>
+	  <Function name="WortUnterstrichen" version="7"/>
+	  <Function name="ParolaSottolineata" version="7"/>
+	  <Function name="単語下線" version="7"/>
+	  <Function name="SublinhadoPorPalavra" version="7"/>
+	  <Function name="SubrayarPalabra" version="7"/>
+	  <Function name="OrdUnderstrukna" version="7"/>
+	  <Function name="字下划线" version="7"/>
+	  <Function name="文字加底線" version="7"/>
+
+	  <Function name="xor" version="7"/>
+	  <Function name="XODER" version="7"/>
+
+	  <Function name="Year" version="7"/>
+	  <Function name="Annee" version="7"/>
+	  <Function name="Jahreszahl" version="7"/>
+	  <Function name="Anno" version="7"/>
+
+	  <Function name="YearName" version="7"/>
+	  <Function name="NomAnnee" version="7"/>
+	  <Function name="JahresNameJap" version="7"/>
+	  <Function name="NomeAnno" version="7"/>
+	  
+	  <Function name="Device" version="13"/>
+	  <Function name="Gerät" version="13"/>
+	  <Function name="Appareil" version="13"/>
+	  <Function name="Dispositivo" version="13"/>
+	  <Function name="デバイス" version="13"/>
+	  <Function name="장비" version="13"/>
+	  <Function name="Apparaat" version="13"/>
+	  <Function name="Enhet" version="13"/>
+	  <Function name="设备" version="13"/>
+	  
+	  <Function name="ModifiedFields" version="13"/>
+	  <Function name="GeänderteFelder" version="13"/>
+	  <Function name="RubriquesModifiées" version="13"/>
+	  <Function name="CampiModificati" version="13"/>
+	  <Function name="変更されたフィールド" version="13"/>
+	  <Function name="수정된 필드" version="13"/>
+	  <Function name="GewijzigdeVelden" version="13"/>
+	  <Function name="ÄndradeFält" version="13"/>
+	  <Function name="修改的字段" version="13"/>
+	  
+	  <Function name="Netzwerktyp" version="13"/>
+	  <Function name="NetworkType" version="13"/>
+	  <Function name="TypeRéseau" version="13"/>
+	  <Function name="TipoRete" version="13"/>
+	  <Function name="ネットワークタイプ" version="13"/>
+	  <Function name="네트워크 유형" version="13"/>
+	  <Function name="TypeNetwerk" version="13"/>
+	  <Function name="NätverksTyp" version="13"/>
+	  <Function name="网络类型" version="13"/>
+	  
+	  <Function name="ScriptAnimationState" version="13"/>
+	  <Function name="ScriptAnimationStatus" version="13"/>
+	  <Function name="EtatAnimationScript" version="13"/>
+	  <Function name="StatoAnimazioneScript" version="13"/>
+	  <Function name="スクリプトアニメーション状態" version="13"/>
+	  <Function name="스크립트 애니메이션 상태" version="13"/>
+	  <Function name="ToestandScriptanimatie" version="13"/>
+	  <Function name="ManusAnimeringLäge" version="13"/>
+	  <Function name="脚本动画状态" version="13"/>
+	  
+	  <Function name="TriggerGestureInfo" version="13"/>
+	  <Function name="TriggerGestenInfo" version="13"/>
+	  <Function name="InfoMouvementDéclencheur" version="13"/>
+	  <Function name="TriggerInfoGesto" version="13"/>
+	  <Function name="トリガジェスチャ情報" version="13"/>
+	  <Function name="동작 정보 트리거" version="13"/>
+	  <Function name="BewegingsInfoActivering" version="13"/>
+	  <Function name="UtlösareGesterInfo" version="13"/>
+	  <Function name="触发手势信息" version="13"/>
+	  
+	  <Function name="WindowOrientation" version="13"/>
+	  <Function name="Fensterausrichtung" version="13"/>
+	  <Function name="OrientationFenêtre" version="13"/>
+	  <Function name="OrientamentoFinestra" version="13"/>
+	  <Function name="ウインドウ方向" version="13"/>
+	  <Function name="윈도우 방향" version="13"/>
+	  <Function name="VensterRichting" version="13"/>
+	  <Function name="FönsterOrientering" version="13"/>
+	  <Function name="窗口方向" version="13"/>
+	  
+	  <Function name="EncryptionState" version="13"/>
+	  <Function name="Verschlüsselungsstatus" version="13"/>
+	  <Function name="EtatCryptage" version="13"/>
+	  <Function name="StatoCrittografia" version="13"/>
+	  <Function name="暗号化状態" version="13"/>
+	  <Function name="암호화 상태" version="13"/>
+	  <Function name="CoderingsStatus" version="13"/>
+	  <Function name="KrypteringsLäge" version="13"/>
+	  <Function name="加密状态" version="13"/>
+	  
+	  <Function name="ConnectionAttributes" version="13"/>
+	  <Function name="VerbindungsAttribute" version="13"/>
+	  <Function name="AttributsConnexion" version="13"/>
+	  <Function name="AttributiConnessione" version="13"/>
+	  <Function name="接続属性" version="13"/>
+	  <Function name="연결 속성" version="13"/>
+	  <Function name="VerbindingsAttributen" version="13"/>
+	  <Function name="AnslutningsAttribut" version="13"/>
+	  <Function name="连接属性" version="13"/>
+	  
+	  <Function name="CurrentTimeUTCMilliseconds" version="13"/>
+	  <Function name="SystemUhrzeitUTCMillisekunden" version="13"/>
+	  <Function name="HeureActuelleUTCMillisecondes" version="13"/>
+	  <Function name="MillisecondiUTCOraCorrente" version="13"/>
+	  <Function name="現在の時刻 UTC ミリ秒" version="13"/>
+	  <Function name="현재 시간 UTC 밀리초" version="13"/>
+	  <Function name="HuidigeTijdUTCMilliseconden" version="13"/>
+	  <Function name="AktuellTidUTCMillisekunder" version="13"/>
+	  <Function name="当前时间UTC毫秒" version="13"/>
+	  
+	  <Function name="SortState" version="7"/>
+	  <Function name="StatusSorteren" version="7"/>
+	  <Function name="EtatTri" version="7"/>
+	  <Function name="Sortierstatus" version="7"/>
+	  <Function name="StatoOrdinamento" version="7"/>
+	  <Function name="ソート状態" version="7"/>
+	  <Function name="Sorteringsläge" version="7"/>
+	  <Function name="排序状态" version="7"/>
+	  <Function name="排序狀態" version="7"/>	  
+
+	  <Function name="MenubarState" version="14"/>
+	  <Function name="MenüleisteStatus	" version="14"/>
+	  <Function name="EtatBarreMenus" version="14"/>
+	  <Function name="StatoBarraMenu" version="14"/>
+	  <Function name="メニューバー状態" version="14"/>
+	  <Function name="메뉴 막대 상태" version="14"/>
+	  <Function name="Menubalkstatus" version="14"/>
+	  <Function name="MenyradLäge" version="14"/>
+	  <Function name="菜单栏状态" version="14"/>
+
+	  <Function name="ApplicationArchitecture" version="14"/>
+	  <Function name="AnwendungArchitektur" version="14"/>
+	  <Function name="ArchitectureApplication" version="14"/>
+	  <Function name="ArchitetturaApplicazione" version="14"/>
+	  <Function name="アプリケーションアーキテクチャ" version="14"/>
+	  <Function name="응용 프로그램 아키텍처" version="14"/>
+	  <Function name="Programma-architectuur" version="14"/>
+	  <Function name="Programarkitektur" version="14"/>
+	  <Function name="应用程序架构" version="14"/>
+
+	  <Function name="ScreenScaleFactor" version="14"/>
+	  <Function name="DisplayAnzeigeFaktor" version="14"/>
+	  <Function name="FacteurEchelleEcran" version="14"/>
+	  <Function name="FattoreScalaSchermo" version="14"/>
+	  <Function name="スクリーン倍率" version="14"/>
+	  <Function name="해상도배율 인수" version="14"/>
+	  <Function name="Schermschaalfactor" version="14"/>
+	  <Function name="Skärmskalningsfaktor" version="14"/>
+	  <Function name="屏幕缩放系数" version="14"/>
+
+	  <Function name="TriggerExternalEvent" version="14"/>
+	  <Function name="TriggerExternesEreignis" version="14"/>
+	  <Function name="DéclencherÉvénementExterne" version="14"/>
+	  <Function name="EventoEsternoTrigger" version="14"/>
+	  <Function name="トリガ外部イベント" version="14"/>
+	  <Function name="트리거 외부 이벤트" version="14"/>
+	  <Function name="ActiveringExternEvenement" version="14"/>
+	  <Function name="UtlösaExternHändelse" version="14"/>
+	  <Function name="触发器外部事件" version="14"/>
+
+	  <Function name="TouchKeyboardState" version="14"/>
+	  <Function name="TouchTastaturStatus" version="14"/>
+	  <Function name="EtatClavierTactile" version="14"/>
+	  <Function name="StatoTastieraTouch" version="14"/>
+	  <Function name="タッチキーボード状態" version="14"/>
+	  <Function name="터치 키보드 상태" version="14"/>
+	  <Function name="Touch-toetsenbordstatus" version="14"/>
+	  <Function name="PektangentbordLäge" version="14"/>
+	  <Function name="触控键盘状态" version="14"/>
+
+	  <Function name="Furigana" version="14"/>
+
+	  <Function name="GetAVPlayerAttribute" version="14"/>
+	  <Function name="HoleAVPlayerAttribut" version="14"/>
+	  <Function name="ObtenirAttributAVPlayer" version="14"/>
+	  <Function name="OttieniAttributoAVPlayer" version="14"/>
+
+	  <Function name="JSONFormatElements" version="16"/>
+	  <Function name="JSONGetElement" version="16"/>
+	  <Function name="JSONDeleteElement" version="16"/>
+	  <Function name="JSONListKeys" version="16"/>
+	  <Function name="JSONListValues" version="16"/>
+	  <Function name="JSONSetElement" version="16"/>
+	  <Function name="JSONString" version="16"/>
+	  <Function name="JSONNumber" version="16"/>
+	  <Function name="JSONObject" version="16"/>
+	  <Function name="JSONArray" version="16"/>
+	  <Function name="JSONBoolean" version="16"/>
+	  <Function name="JSONNull" version="16"/>
+	  <Function name="JSONRaw" version="16"/>
+
+
+	  <Function name="HexEncode" version="16"/>
+	  <Function name="HexDecode" version="16"/>
+	  
+	  <Function name="TextDecode" version="16"/>
+	  <Function name="TextEncode" version="16"/>
+	  
+	  <Function name="Base64EncodeRFC" version="16"/>
+	  
+	  <Function name="CryptAuthCode" version="16"/>
+	  <Function name="CryptDigest" version="16"/>
+	  <Function name="CryptEncrypt" version="16"/>
+	  <Function name="CryptDecrypt" version="16"/>
+	  <Function name="CryptEncryptBase64" version="16"/>
+	  <Function name="CryptDecryptBase64" version="16"/>
+	  
+	  <Function name="AccountGroupName" version="16"/>
+	  <Function name="Kontogruppenname" version="16"/>
+	  <Function name="NomGroupeCompte" version="16"/>
+	  <Function name="NomeGruppoAccount" version="16"/>
+	  <Function name="アカウントグループ名" version="16"/>
+	  <Function name="계정 그룹 이름" version="16"/>
+	  <Function name="AccountGroepsnaam" version="16"/>
+	  <Function name="Kontogruppnamn" version="16"/>
+	  <Function name="账户组名称" version="16"/>
+
+	  <Function name="RegionMonitorEvents" version="16"/>
+	  <Function name="RegionsmonitorEvents" version="16"/>
+	  <Function name="EvénementsSurveillanceZone" version="16"/>
+	  <Function name="EventiMonitoraggioRegione" version="16"/>
+	  <Function name="領域監視イベント" version="16"/>
+	  <Function name="영역 모니터 이벤트" version="16"/>
+	  <Function name="GebeurtenissenRegiobewaking" version="16"/>
+	  <Function name="Zonövervakningshändelser" version="16"/>
+	  <Function name="区域监视事件" version="16"/>
+	  
+	  <Function name="SortValues" version="16"/>
+	  <Function name="UniqueValues" version="16"/>
+	  	  
+	  <Function name="ActiveRecordNumber" version="17"/>
+	  <Function name="AktiveDatensatznummer" version="17"/>
+	  <Function name="NuméroEnregActif" version="17"/>
+	  <Function name="NumeroRecordAttivo" version="17"/>
+	  <Function name="アクティブレコード番号" version="17"/>
+	  <Function name="활성화된 레코드 번호" version="17"/>
+	  <Function name="ActieveRecordNummer" version="17"/>
+	  <Function name="AktivtPostnummer" version="17"/>
+	  <Function name="活动记录数" version="17"/>
+
+	  <Function name="UUIDNumber" version="17"/>
+	  <Function name="UUIDNummer" version="17"/>
+	  <Function name="NombreUUID" version="17"/>
+	  <Function name="NumeroIDUU" version="17"/>
+	  <Function name="UUID 番号" version="17"/>
+	  <Function name="UUID번호" version="17"/>
+	  <Function name="UUID-nummer" version="17"/>
+	  <Function name="UUID 号" version="17"/>
+
+	  <Function name="GetSensor" version="17"/>
+	  <Function name="HoleSensor" version="17"/>
+	  <Function name="ObtenirCapteur" version="17"/>
+	  <Function name="RicavaSensore" version="17"/>
+
+
+	  <Function name="CryptGenerateSignature" version="18"/>
+	  
+	  <Function name="CryptVerifySignature" version="18"/>
+	  
+	  <Function name="AccountType" version="18"/>
+	  <Function name="TypeCompte" version="18"/>
+	  <Function name="TipoAccount" version="18"/>
+	  <Function name="アカウントタイプ" version="18"/>
+	  <Function name="계정 유형" version="18"/>
+	  <Function name="Kontotyp" version="18"/>
+	  <Function name="帐户类型" version="18"/>
+	  
+	  <Function name="OpenDataFileInfo" version="18"/>
+	  <Function name="OffeneDatenDateiInfo" version="18"/>
+	  <Function name="InfoFichierDonnéesOuvert" version="18"/>
+	  <Function name="InfoFileDatiAperti" version="18"/>
+	  <Function name="オープンデータファイル情報" version="18"/>
+	  <Function name="파일정보 데이터 열기" version="18"/>
+	  <Function name="GegevensBestandsInformatieOpenen" version="18"/>
+	  <Function name="ÖppnaDatafilinfo" version="18"/>
+	  <Function name="打开数据文件信息" version="18"/>
+
+	  <Function name="SetRecursion" version="18"/>
+	  <Function name="SetzeRekursion" version="18"/>
+	  <Function name="DefinirRecursion" version="18"/>
+	  <Function name="ImpostaRicorsività" version="18"/>
+
+	  <Function name="While" version="18"/>
+	  <Function name="Solange" version="18"/>
+	  <Function name="TantQue" version="18"/>
+
+	</FunctionList>
+</root>
