@@ -1,178 +1,218 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright © Goya Pty Ltd 2006-2018, All Rights Reserved -->
 <root>
 	<StepList>
-		<Step id="1" name="Perform Script" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect,WebDirect"/>
-		<Step id="4" name="Go to Next Field" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="5" name="Go to Previous Field" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="6" name="Go to Layout" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="7" name="New Record/Request" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="8" name="Duplicate Record/Request" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="9" name="Delete Record/Request" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="10" name="Delete All Records" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="11" name="Insert from Index" ModField="1" MinVersion="7" Compatibility="Desktop,Runtime" InCompatibility="Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="12" name="Insert from Last Visited" ModField="1" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="13" name="Insert Current Date" ModField="1" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="14" name="Insert Current Time" ModField="1" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="16" name="Go to Record/Request/Page" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="17" name="Go to Field" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="18" name="Check Selection" MinVersion="7" Compatibility="Desktop,Runtime" InCompatibility="Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="19" name="Check Record" MinVersion="7" Compatibility="Desktop,Runtime" InCompatibility="Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="20" name="Check Found Set" MinVersion="7" Compatibility="Desktop,Runtime" InCompatibility="Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="21" name="Unsort Records" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="22" name="Enter Find Mode" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="23" name="Show All Records" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="24" name="Modify Last Find" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="25" name="Omit Record" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="26" name="Omit Multiple Records" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="27" name="Show Omitted Only" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="28" name="Perform Find" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="29" name="Show/Hide Toolbars" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,IWP,WebDirect" InCompatibility="CWP"/>
-		<Step id="30" name="View As" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="31" name="Adjust Window" MinVersion="7" Compatibility="Desktop,Runtime,iOS" InCompatibility="Server,CWP,IWP,WebDirect"/>
-		<Step id="32" name="Open Help" MinVersion="7" Compatibility="Desktop,Runtime,iOS,WebDirect" InCompatibility="Server,CWP,IWP"/>
-		<Step id="33" name="Open File" MinVersion="7" Compatibility="Desktop,Runtime,iOS" InCompatibility="Server,CWP,IWP,WebDirect"/>
-		<Step id="34" name="Close File" MinVersion="7" Compatibility="Desktop,Runtime,iOS" InCompatibility="Server,CWP,IWP,WebDirect"/>
-		<Step id="35" name="Import Records" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,WebDirect" InCompatibility="CWP,IWP"/>
-		<Step id="36" name="Export Records" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,WebDirect" InCompatibility="CWP,IWP"/>
-		<Step id="37" name="Save a Copy as" MinVersion="7" Compatibility="Desktop,iOS" InCompatibility="Runtime,Server,CWP,IWP,WebDirect"/>
-		<Step id="38" name="Open Manage Database" MinVersion="7" Compatibility="Desktop" InCompatibility="Runtime,iOS,Server,CWP,IWP,WebDirect"/>
-		<Step id="39" name="Sort Records" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="40" name="Relookup Field Contents" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="41" name="Enter Preview Mode" MinVersion="7" Compatibility="Desktop,Runtime" InCompatibility="Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="42" name="Print Setup" MinVersion="7" Compatibility="Desktop,Runtime,IWP,WebDirect,iOS" InCompatibility="Server,CWP"/>
-		<Step id="43" name="Print" MinVersion="7" Compatibility="Desktop,Runtime,IWP,WebDirect,iOS" InCompatibility="Server,CWP"/>
-		<Step id="44" name="Exit Application" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,IWP,WebDirect" InCompatibility="CWP"/>
-		<Step id="45" name="Undo/Redo" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="46" name="Cut" ModField="1" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="47" name="Copy" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="48" name="Paste" ModField="1" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="49" name="Clear" ModField="1" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="50" name="Select All" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="51" name="Revert Record/Request" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="55" name="Enter Browse Mode" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="56" name="Insert Picture" ModField="1" MinVersion="7" Compatibility="Desktop,Runtime,iOS,WebDirect" InCompatibility="Server,CWP,IWP"/>
-		<Step id="57" name="Send Event" MinVersion="7" Compatibility="Desktop,Runtime" InCompatibility="Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="59" name="Insert QuickTime" ModField="1" MinVersion="7" Compatibility="Desktop,Runtime,iOS" InCompatibility="Server,CWP,IWP,WebDirect"/>
-		<Step id="60" name="Insert Current User Name" ModField="1" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="61" name="Insert Text" ModField="1" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="62" name="Pause/Resume Script" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="63" name="Send Mail" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="64" name="Send DDE Execute" MinVersion="7" Compatibility="Desktop,Runtime" InCompatibility="Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="65" name="Dial Phone" MinVersion="7" Compatibility="Desktop,Runtime,iOS" InCompatibility="Server,CWP,IWP,WebDirect"/>
-		<Step id="66" name="Speak" MinVersion="7" Compatibility="Desktop,Runtime" InCompatibility="Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="67" name="Perform AppleScript" MinVersion="7" Compatibility="Desktop,Runtime" InCompatibility="Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="68" name="If" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="69" name="Else" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="70" name="End If" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="71" name="Loop" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="72" name="Exit Loop If" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="73" name="End Loop" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="74" name="Go to Related Record" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="75" name="Commit Records/Requests" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="76" name="Set Field" ModField="1" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="77" name="Insert Calculated Result" ModField="1" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="78" name="Insert Object" ModField="1" MinVersion="7" MaxVersion="11" Compatibility="Desktop,Runtime" InCompatibility="Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="79" name="Freeze Window" MinVersion="7" Compatibility="Desktop,Runtime,iOS,WebDirect" InCompatibility="Server,CWP,IWP"/>
-		<Step id="80" name="Refresh Window" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="81" name="Scroll Window" MinVersion="7" Compatibility="Desktop,Runtime,iOS" InCompatibility="Server,CWP,IWP,WebDirect"/>
-		<Step id="82" name="New File" MinVersion="7" Compatibility="Desktop" InCompatibility="Runtime,iOS,Server,CWP,IWP,WebDirect"/>
-		<Step id="83" name="Change Password" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="84" name="Set Multi-User" MinVersion="7" Compatibility="Desktop" InCompatibility="Runtime,iOS,Server,CWP,IWP,WebDirect"/>
-		<Step id="85" name="Allow User Abort" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="86" name="Set Error Capture" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="87" name="Show Custom Dialog" MinVersion="7" Compatibility="Desktop,Runtime,iOS,WebDirect" InCompatibility="Server,CWP,IWP"/>
-		<Step id="88" name="Open Manage Scripts" MinVersion="7" Compatibility="Desktop" InCompatibility="Runtime,iOS,Server,CWP,IWP,WebDirect"/>
-		<Step id="89" name="Comment" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="90" name="Halt Script" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="91" name="Replace Field Contents" ModField="1" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="92" name="Show/Hide Text Ruler" MinVersion="7" Compatibility="Desktop,Runtime" InCompatibility="Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="93" name="Beep" MinVersion="7" Compatibility="Desktop,Runtime,iOS" InCompatibility="Server,CWP,IWP,WebDirect"/>
-		<Step id="94" name="Set Use System Formats" MinVersion="7" Compatibility="Desktop,Runtime,iOS" InCompatibility="Server,CWP,IWP,WebDirect"/>
-		<Step id="95" name="Recover File" MinVersion="7" Compatibility="Desktop" InCompatibility="Runtime,iOS,Server,CWP,IWP,WebDirect"/>
-		<Step id="96" name="Update Link" MinVersion="7" MaxVersion="11" Compatibility="Desktop,Runtime" InCompatibility="Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="97" name="Set Zoom Level" MinVersion="7" Compatibility="Desktop,Runtime,iOS" InCompatibility="Server,CWP,IWP,WebDirect"/>
-		<Step id="98" name="Copy All Records/Requests" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS" InCompatibility="IWP,WebDirect,CWP"/>
-		<Step id="99" name="Go to Portal Row" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="101" name="Copy Record/Request" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="102" name="Flush Cache to Disk" MinVersion="7" Compatibility="Desktop,Runtime,iOS" InCompatibility="Server,CWP,IWP,WebDirect"/>
-		<Step id="103" name="Exit Script" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="104" name="Delete Portal Row" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="105" name="Open Preferences" MinVersion="7" Compatibility="Desktop,Runtime,iOS" InCompatibility="Server,CWP,IWP,WebDirect"/>
-		<Step id="106" name="Correct Word" ModField="1" MinVersion="7" Compatibility="Desktop,Runtime" InCompatibility="Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="107" name="Spelling Options" MinVersion="7" Compatibility="Desktop,Runtime" InCompatibility="Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="108" name="Select Dictionaries" MinVersion="7" Compatibility="Desktop,Runtime" InCompatibility="Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="109" name="Edit User Dictionary" MinVersion="7" Compatibility="Desktop,Runtime" InCompatibility="Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="111" name="Open URL" MinVersion="7" Compatibility="Desktop,Runtime,iOS,IWP,WebDirect"/>
-		<Step id="112" name="Open Manage Value Lists" MinVersion="7" Compatibility="Desktop" InCompatibility="Runtime,iOS,Server,CWP,IWP,WebDirect"/>
-		<Step id="113" name="Open Sharing" MinVersion="7" Compatibility="Desktop" InCompatibility="Runtime,iOS,Server,CWP,IWP,WebDirect"/>
-		<Step id="114" name="Open File Options" MinVersion="7" Compatibility="Desktop,Runtime" InCompatibility="Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="115" name="Allow Formatting Bar" MinVersion="7" Compatibility="Desktop,Runtime" InCompatibility="Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="116" name="Set Next Serial Value" ModField="1" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="117" name="Execute SQL" MinVersion="7" Compatibility="Desktop,Runtime,CWP,WebDirect,Server" InCompatibility="iOS,IWP"/>
-		<Step id="118" name="Open Hosts" MinVersion="7" Compatibility="Desktop,iOS" InCompatibility="Runtime,Server,CWP,IWP,WebDirect"/>
-		<Step id="119" name="Move/Resize Window" MinVersion="7" Compatibility="Desktop,Runtime" InCompatibility="Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="120" name="Arrange All Windows" MinVersion="7" Compatibility="Desktop,Runtime" InCompatibility="Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="121" name="Close Window" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="122" name="New Window" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="123" name="Select Window" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="124" name="Set Window Title" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="125" name="Else If" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="126" name="Constrain Found Set" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="127" name="Extend Found Set" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="128" name="Perform Find/Replace" MinVersion="7" Compatibility="Desktop,Runtime" InCompatibility="Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="129" name="Open Find/Replace" MinVersion="7" Compatibility="Desktop,Runtime" InCompatibility="Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="130" name="Set Selection" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="131" name="Insert File" ModField="1" MinVersion="7" Compatibility="Desktop,Runtime,iOS,WebDirect" InCompatibility="Server,CWP,IWP"/>
-		<Step id="132" name="Export Field Contents" MinVersion="7" Compatibility="Desktop,Runtime,iOS,WebDirect" InCompatibility="Server,CWP,IWP"/>
-		<Step id="133" name="Open Record/Request" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="134" name="Add Account" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="135" name="Delete Account" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="136" name="Reset Account Password" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="137" name="Enable Account" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="138" name="Re-Login" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="139" name="Convert File" MinVersion="7" Compatibility="Desktop,Runtime" InCompatibility="Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="140" name="Open Manage Data Sources" MinVersion="7" Compatibility="Desktop" InCompatibility="Runtime,iOS,Server,CWP,IWP,WebDirect"/>
-		<Step id="141" name="Set Variable" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="142" name="Install Menu Set" MinVersion="7" Compatibility="Desktop,Runtime,iOS" InCompatibility="Server,CWP,IWP,WebDirect"/>
-		<Step id="143" name="Save Records as Excel" MinVersion="8" Compatibility="Desktop,Runtime" InCompatibility="Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="144" name="Save Records as PDF" MinVersion="8" Compatibility="Desktop,IWP,WebDirect,iOS,Server" InCompatibility="Runtime,CWP"/>
-		<Step id="145" name="Go to Object" MinVersion="8.5" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="146" name="Set Web Viewer" MinVersion="8.5" Compatibility="Desktop,Runtime,iOS,IWP,WebDirect" InCompatibility="Server,CWP"/>
-		<Step id="147" name="Set Field By Name" MinVersion="10" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="148" name="Install OnTimer Script" MinVersion="10" Compatibility="Desktop,Runtime,iOS,WebDirect" InCompatibility="Server,CWP,IWP"/>
-		<Step id="149" name="Open Edit Saved Finds" MinVersion="10" Compatibility="Desktop,Runtime" InCompatibility="Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="150" name="Perform Quick Find" MinVersion="11" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="151" name="Open Manage Layouts" MinVersion="11" Compatibility="Desktop" InCompatibility="Runtime,iOS,Server,CWP,IWP,WebDirect"/>
-		<Step id="152" name="Save Records as Snapshot Link" MinVersion="11" Compatibility="Desktop,Runtime,Server,iOS" InCompatibility="CWP,IWP,WebDirect"/>
-		<Step id="154" name="Sort Records by Field" MinVersion="12" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="155" name="Find Matching Records" MinVersion="12" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="156" name="Open Manage Containers" MinVersion="12" Compatibility="Desktop" InCompatibility="Runtime,iOS,Server,CWP,IWP,WebDirect"/>
-		<Step id="157" name="Install Plug-In File" MinVersion="12" Compatibility="Desktop,Runtime,Server,CWP,IWP,WebDirect" InCompatibility="iOS"/>
-		<Step id="160" name="Insert from URL" ModField="1" MinVersion="12" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
+		<Step id="1" name="Perform Script" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="4" name="Go to Next Field" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="5" name="Go to Previous Field" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="6" name="Go to Layout" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="7" name="New Record/Request" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="8" name="Duplicate Record/Request" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="9" name="Delete Record/Request" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="10" name="Delete All Records" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="11" name="Insert from Index" ModField="1" MinVersion="7" Compatibility="Desktop,Runtime" InCompatibility="Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="12" name="Insert from Last Visited" ModField="1" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="13" name="Insert Current Date" ModField="1" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="14" name="Insert Current Time" ModField="1" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="16" name="Go to Record/Request/Page" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="17" name="Go to Field" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="18" name="Check Selection" MinVersion="7" Compatibility="Desktop,Runtime" InCompatibility="Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="19" name="Check Record" MinVersion="7" Compatibility="Desktop,Runtime" InCompatibility="Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="20" name="Check Found Set" MinVersion="7" Compatibility="Desktop,Runtime" InCompatibility="Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="21" name="Unsort Records" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="22" name="Enter Find Mode" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="23" name="Show All Records" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="24" name="Modify Last Find" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="25" name="Omit Record" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="26" name="Omit Multiple Records" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="27" name="Show Omitted Only" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="28" name="Perform Find" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="29" name="Show/Hide Toolbars" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,WebDirect,AWS,DataAPI" InCompatibility="CWP"/>
+		<Step id="30" name="View As" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="31" name="Adjust Window" MinVersion="7" Compatibility="Desktop,Runtime,iOS,WebDirect" InCompatibility="Server,CWP,AWS,DataAPI"/>
+		<Step id="32" name="Open Help" MinVersion="7" Compatibility="Desktop,Runtime,iOS,WebDirect" InCompatibility="Server,CWP,AWS,DataAPI"/>
+		<Step id="33" name="Open File" MinVersion="7" Compatibility="Desktop,Runtime,iOS" InCompatibility="Server,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="34" name="Close File" MinVersion="7" Compatibility="Desktop,Runtime,iOS" InCompatibility="Server,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="35" name="Import Records" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,WebDirect,AWS,DataAPI" InCompatibility="CWP"/>
+		<Step id="36" name="Export Records" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,WebDirect,AWS,DataAPI" InCompatibility="CWP"/>
+		<Step id="37" name="Save a Copy as" MinVersion="7" Compatibility="Desktop,iOS" InCompatibility="Runtime,Server,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="38" name="Open Manage Database" MinVersion="7" Compatibility="Desktop" InCompatibility="Runtime,iOS,Server,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="39" name="Sort Records" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="40" name="Relookup Field Contents" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="41" name="Enter Preview Mode" MinVersion="7" Compatibility="Desktop,Runtime" InCompatibility="Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="42" name="Print Setup" MinVersion="7" Compatibility="Desktop,Runtime,WebDirect,iOS" InCompatibility="Server,CWP,AWS,DataAPI"/>
+		<Step id="43" name="Print" MinVersion="7" Compatibility="Desktop,Runtime,WebDirect,iOS" InCompatibility="Server,CWP,AWS,DataAPI"/>
+		<Step id="44" name="Exit Application" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,WebDirect,AWS,DataAPI" InCompatibility="CWP"/>
+		<Step id="45" name="Undo/Redo" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="46" name="Cut" ModField="1" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="47" name="Copy" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="48" name="Paste" ModField="1" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="49" name="Clear" ModField="1" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="50" name="Select All" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="51" name="Revert Record/Request" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="55" name="Enter Browse Mode" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="56" name="Insert Picture" ModField="1" MinVersion="7" Compatibility="Desktop,Runtime,iOS,WebDirect" InCompatibility="Server,CWP,AWS,DataAPI"/>
+		<Step id="57" name="Send Event" MinVersion="7" Compatibility="Desktop,Runtime" InCompatibility="Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="59" name="Insert QuickTime" ModField="1" MinVersion="7" Compatibility="Desktop,Runtime,iOS" InCompatibility="Server,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="60" name="Insert Current User Name" ModField="1" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="61" name="Insert Text" ModField="1" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="62" name="Pause/Resume Script" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="63" name="Send Mail" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="64" name="Send DDE Execute" MinVersion="7" Compatibility="Desktop,Runtime,Windows" InCompatibility="Server,iOS,CWP,WebDirect,AWS,DataAPI,Mac"/>
+		<Step id="65" name="Dial Phone" MinVersion="7" Compatibility="Desktop,Runtime,iOS" InCompatibility="Server,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="66" name="Speak" MinVersion="7" Compatibility="Desktop,Runtime,Mac" InCompatibility="Server,iOS,CWP,WebDirect,AWS,DataAPI,Windows"/>
+		<Step id="67" name="Perform AppleScript" MinVersion="7" Compatibility="Desktop,Runtime,Mac" InCompatibility="Server,iOS,CWP,WebDirect,AWS,DataAPI,Windows"/>
+		<Step id="68" name="If" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="69" name="Else" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="70" name="End If" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="71" name="Loop" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="72" name="Exit Loop If" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="73" name="End Loop" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="74" name="Go to Related Record" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="75" name="Commit Records/Requests" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="76" name="Set Field" ModField="1" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="77" name="Insert Calculated Result" ModField="1" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="78" name="Insert Object" ModField="1" MinVersion="7" MaxVersion="11" Compatibility="Desktop,Runtime" InCompatibility="Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="79" name="Freeze Window" MinVersion="7" Compatibility="Desktop,Runtime,iOS,WebDirect" InCompatibility="Server,CWP,AWS,DataAPI"/>
+		<Step id="80" name="Refresh Window" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="81" name="Scroll Window" MinVersion="7" Compatibility="Desktop,Runtime,iOS" InCompatibility="Server,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="82" name="New File" MinVersion="7" Compatibility="Desktop" InCompatibility="Runtime,iOS,Server,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="83" name="Change Password" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="84" name="Set Multi-User" MinVersion="7" Compatibility="Desktop" InCompatibility="Runtime,iOS,Server,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="85" name="Allow User Abort" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="86" name="Set Error Capture" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="87" name="Show Custom Dialog" MinVersion="7" Compatibility="Desktop,Runtime,iOS,WebDirect,AWS,DataAPI" InCompatibility="Server,CWP"/>
+		<Step id="88" name="Open Manage Scripts" MinVersion="7" Compatibility="Desktop" InCompatibility="Runtime,iOS,Server,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="89" name="Comment" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="90" name="Halt Script" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="91" name="Replace Field Contents" ModField="1" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="92" name="Show/Hide Text Ruler" MinVersion="7" Compatibility="Desktop,Runtime" InCompatibility="Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="93" name="Beep" MinVersion="7" Compatibility="Desktop,Runtime,iOS" InCompatibility="Server,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="94" name="Set Use System Formats" MinVersion="7" Compatibility="Desktop,Runtime,iOS" InCompatibility="Server,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="95" name="Recover File" MinVersion="7" Compatibility="Desktop" InCompatibility="Runtime,iOS,Server,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="96" name="Save a Copy as Add-on Package" MinVersion="7" MaxVersion="11" Compatibility="Desktop,Runtime" InCompatibility="Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="97" name="Set Zoom Level" MinVersion="7" Compatibility="Desktop,Runtime,iOS" InCompatibility="Server,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="98" name="Copy All Records/Requests" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,AWS,DataAPI" InCompatibility="WebDirect,CWP"/>
+		<Step id="99" name="Go to Portal Row" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="101" name="Copy Record/Request" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="102" name="Flush Cache to Disk" MinVersion="7" Compatibility="Desktop,Runtime,iOS" InCompatibility="Server,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="103" name="Exit Script" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="104" name="Delete Portal Row" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="105" name="Open Preferences" MinVersion="7" Compatibility="Desktop,Runtime,iOS" InCompatibility="Server,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="106" name="Correct Word" ModField="1" MinVersion="7" Compatibility="Desktop,Runtime" InCompatibility="Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="107" name="Spelling Options" MinVersion="7" Compatibility="Desktop,Runtime" InCompatibility="Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="108" name="Select Dictionaries" MinVersion="7" Compatibility="Desktop,Runtime" InCompatibility="Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="109" name="Edit User Dictionary" MinVersion="7" Compatibility="Desktop,Runtime" InCompatibility="Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="111" name="Open URL" MinVersion="7" Compatibility="Desktop,Runtime,iOS,WebDirect" InCompatibility="Server,CWP,AWS,DataAPI"/>
+		<Step id="112" name="Open Manage Value Lists" MinVersion="7" Compatibility="Desktop" InCompatibility="Runtime,iOS,Server,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="113" name="Open Sharing" MinVersion="7" Compatibility="Desktop" InCompatibility="Runtime,iOS,Server,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="114" name="Open File Options" MinVersion="7" Compatibility="Desktop,Runtime" InCompatibility="Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="115" name="Allow Formatting Bar" MinVersion="7" Compatibility="Desktop,Runtime" InCompatibility="Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="116" name="Set Next Serial Value" ModField="1" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="117" name="Execute SQL" MinVersion="7" Compatibility="Desktop,CWP,WebDirect,Server,AWS,DataAPI" InCompatibility="iOS,Runtime"/>
+		<Step id="118" name="Open Hosts" MinVersion="7" Compatibility="Desktop,iOS" InCompatibility="Runtime,Server,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="119" name="Move/Resize Window" MinVersion="7" Compatibility="Desktop,Runtime,iOS,WebDirect" InCompatibility="Server,CWP,AWS,DataAPI"/>
+		<Step id="120" name="Arrange All Windows" MinVersion="7" Compatibility="Desktop,Runtime" InCompatibility="Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="121" name="Close Window" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="122" name="New Window" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="123" name="Select Window" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="124" name="Set Window Title" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="125" name="Else If" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="126" name="Constrain Found Set" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="127" name="Extend Found Set" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="128" name="Perform Find/Replace" MinVersion="7" Compatibility="Desktop,Runtime" InCompatibility="Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="129" name="Open Find/Replace" MinVersion="7" Compatibility="Desktop,Runtime" InCompatibility="Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="130" name="Set Selection" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="131" name="Insert File" ModField="1" MinVersion="7" Compatibility="Desktop,Runtime,iOS,WebDirect" InCompatibility="Server,CWP,AWS,DataAPI"/>
+		<Step id="132" name="Export Field Contents" MinVersion="7" Compatibility="Desktop,Runtime,iOS,WebDirect" InCompatibility="Server,CWP,AWS,DataAPI"/>
+		<Step id="133" name="Open Record/Request" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="134" name="Add Account" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="135" name="Delete Account" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="136" name="Reset Account Password" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="137" name="Enable Account" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="138" name="Re-Login" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="139" name="Convert File" MinVersion="7" Compatibility="Desktop,Runtime" InCompatibility="Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="140" name="Open Manage Data Sources" MinVersion="7" Compatibility="Desktop" InCompatibility="Runtime,iOS,Server,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="141" name="Set Variable" MinVersion="7" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="142" name="Install Menu Set" MinVersion="7" Compatibility="Desktop,Runtime,iOS" InCompatibility="Server,CWP,WebDirect,AWS,DataAPI"/>
 		
-		<Step id="161" name="Insert from Device" ModField="1" MinVersion="13" Compatibility="iOS" InCompatibility="Desktop,Runtime,Server,CWP,IWP,WebDirect"/>
-		<Step id="164" name="Perform Script on Server" MinVersion="13" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="165" name="Open Manage Themes" MinVersion="13" Compatibility="Desktop" InCompatibility="Runtime,iOS,Server,CWP,IWP,WebDirect"/>
-		<Step id="166" name="Show/Hide Menubar" MinVersion="13" Compatibility="iOS,IWP,WebDirect" InCompatibility="Desktop,Runtime,Server,CWP"/>
-		<Step id="167" name="Refresh Object" MinVersion="13" Compatibility="Desktop,Runtime,iOS,IWP,WebDirect" InCompatibility="Server,CWP"/>
-		<Step id="168" name="Set Layout Object Animation" MinVersion="13" Compatibility="Desktop,Runtime,Server,iOS,CWP,IWP,WebDirect"/>
-		<Step id="169" name="Close Popover" MinVersion="13" Compatibility="Desktop,Runtime,iOS,IWP,WebDirect" InCompatibility="Server,CWP"/>
-		<Step id="172" name="Upload to FileMaker Server" MinVersion="13" Compatibility="Desktop" InCompatibility="Runtime,iOS,Server,CWP,IWP,WebDirect"/>
+		<Step id="143" name="Save Records as Excel" MinVersion="8" Compatibility="Desktop,Runtime" InCompatibility="Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="144" name="Save Records as PDF" MinVersion="8" Compatibility="Desktop,WebDirect,iOS,Server,AWS,DataAPI" InCompatibility="Runtime,CWP"/>
 		
-		<Step id="174" name="Enable Touch Keyboard" MinVersion="14" Compatibility="Desktop,Runtime,iOS" InCompatibility="Server,CWP,WebDirect"/>
-		<Step id="176" name="Set Allowed Orientations" MinVersion="14"  MaxVersion="15" Compatibility="iOS" InCompatibility="Desktop,Runtime,Server,CWP,WebDirect"/>
-		<Step id="177" name="AVPlayer Play" MinVersion="14" Compatibility="iOS" InCompatibility="Desktop,Runtime,Server,CWP,WebDirect"/>
-		<Step id="178" name="AVPlayer Set Playback State" MinVersion="14" Compatibility="iOS" InCompatibility="Desktop,Runtime,Server,CWP,WebDirect"/>
-		<Step id="179" name="AVPlayer Set Options" MinVersion="14" Compatibility="iOS" InCompatibility="Desktop,Runtime,Server,CWP,IWP,WebDirect"/>
-		<Step id="180" name="Refresh Portal" MinVersion="14" Compatibility="Desktop,Runtime,iOS,IWP,WebDirect" InCompatibility="Server,CWP"/>
-		<Step id="181" name="Get Directory" MinVersion="14" Compatibility="Desktop,Runtime" InCompatibility="Server,iOS,CWP,WebDirect"/>
+		<Step id="145" name="Go to Object" MinVersion="8.5" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="146" name="Set Web Viewer" MinVersion="8.5" Compatibility="Desktop,Runtime,iOS,WebDirect" InCompatibility="Server,CWP,AWS,DataAPI"/>
+		
+		<Step id="147" name="Set Field By Name" MinVersion="10" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="148" name="Install OnTimer Script" MinVersion="10" Compatibility="Desktop,Runtime,iOS,WebDirect" InCompatibility="Server,CWP,AWS,DataAPI"/>
+		<Step id="149" name="Open Edit Saved Finds" MinVersion="10" Compatibility="Desktop,Runtime" InCompatibility="Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		
+		<Step id="150" name="Perform Quick Find" MinVersion="11" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="151" name="Open Manage Layouts" MinVersion="11" Compatibility="Desktop" InCompatibility="Runtime,iOS,Server,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="152" name="Save Records as Snapshot Link" MinVersion="11" Compatibility="Desktop,Runtime,Server,iOS,AWS,DataAPI" InCompatibility="CWP,WebDirect"/>
+		
+		<Step id="154" name="Sort Records by Field" MinVersion="12" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="155" name="Find Matching Records" MinVersion="12" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="156" name="Open Manage Containers" MinVersion="12" Compatibility="Desktop" InCompatibility="Runtime,iOS,Server,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="157" name="Install Plug-In File" MinVersion="12" Compatibility="Desktop,Runtime,Server,CWP,WebDirect,AWS,DataAPI" InCompatibility="iOS"/>
+		<Step id="158" name="Insert PDF" MinVersion="12" Compatibility="Desktop,iOS,Runtime,WebDirect" InCompatibility="Server,CWP,AWS,DataAPI"/>
+		<Step id="159" name="Insert Audio/Video" MinVersion="12" Compatibility="Desktop,iOS,Runtime,WebDirect" InCompatibility="Server,CWP,AWS,DataAPI"/>
+		<Step id="160" name="Insert from URL" ModField="1" MinVersion="12" Compatibility="Desktop,Runtime,Server,CWP,WebDirect,AWS,DataAPI,iOS" InCompatibility=""/>
+		
+		<Step id="161" name="Insert from Device" ModField="1" MinVersion="13" Compatibility="iOS" InCompatibility="Desktop,Runtime,Server,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="164" name="Perform Script on Server" MinVersion="13" Compatibility="Desktop,iOS,CWP,WebDirect,DataAPI" InCompatibility="AWS,Server,Runtime"/>/>
+		<Step id="165" name="Open Manage Themes" MinVersion="13" Compatibility="Desktop" InCompatibility="Runtime,iOS,Server,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="166" name="Show/Hide Menubar" MinVersion="13" Compatibility="iOS,WebDirect" InCompatibility="Desktop,Runtime,Server,CWP,AWS,DataAPI"/>
+		<Step id="167" name="Refresh Object" MinVersion="13" Compatibility="Desktop,Runtime,iOS,WebDirect" InCompatibility="Server,CWP,AWS,DataAPI"/>
+		<Step id="168" name="Set Layout Object Animation" MinVersion="13" Compatibility="Desktop,Runtime,Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="169" name="Close Popover" MinVersion="13" Compatibility="Desktop,Runtime,iOS,WebDirect,AWS,DataAPI" InCompatibility="Server,CWP"/>
+		<Step id="172" name="Open Upload to Host" MinVersion="13" Compatibility="Desktop" InCompatibility="Runtime,iOS,Server,CWP,WebDirect,AWS,DataAPI"/>
 
-		<Step id="183" name="Open My Apps" MinVersion="16" Compatibility="Desktop" InCompatibility="iOS,Runtime,IWP,Server,CWP,WebDirect"/>
-		<Step id="185" name="Configure Region Monitor Script" MinVersion="16" Compatibility="iOS" InCompatibility="Server,CWP,IWP,WebDirect,Desktop,Runtime"/>
+		<Step id="173" name="Get Folder Path" MinVersion="14" Compatibility="Desktop,Runtime" InCompatibility="iOS,Server,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="174" name="Enable Touch Keyboard" MinVersion="14" Compatibility="Desktop,Runtime,iOS" InCompatibility="Server,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="176" name="Set Allowed Orientations" MinVersion="14" MaxVersion="15" Compatibility="iOS" InCompatibility="Desktop,Runtime,Server,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="177" name="AVPlayer Play" MinVersion="14" Compatibility="iOS" InCompatibility="Desktop,Runtime,Server,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="178" name="AVPlayer Set Playback State" MinVersion="14" Compatibility="iOS" InCompatibility="Desktop,Runtime,Server,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="179" name="AVPlayer Set Options" MinVersion="14" Compatibility="iOS" InCompatibility="Desktop,Runtime,Server,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="180" name="Refresh Portal" MinVersion="14" Compatibility="Desktop,Runtime,iOS,WebDirect" InCompatibility="Server,CWP,AWS,DataAPI"/>
+		<Step id="181" name="Get Directory" MinVersion="14" MaxVersion="14" Compatibility="Desktop,Runtime" InCompatibility="Server,iOS,CWP,WebDirect,AWS,DataAPI"/>
 
-		<Step id="186" name="Plugin Script Step" MinVersion="16" Compatibility="Desktop,Server,iOS,WebDirect,CWP,Runtime" InCompatibility="IWP"/>
+		<Step id="182" name="Truncate Table" MinVersion="14" MaxVersion="14" Compatibility="Desktop,Server,iOS,CWP,WebDirect,AWS,DataAPI" InCompatibility="Runtime"/>
 
-		<Step id="187" name="Configure Local Notification" MinVersion="17" Compatibility="iOS" InCompatibility="Server,CWP,IWP,WebDirect,Desktop,Runtime"/>
+		<Step id="183" name="Open Favorites" MinVersion="16" Compatibility="Desktop" InCompatibility="iOS,Runtime,Server,CWP,WebDirect,AWS,DataAPI"/>
+		<Step id="185" name="Configure Region Monitor Script" MinVersion="16" Compatibility="iOS" InCompatibility="Server,CWP,WebDirect,Desktop,Runtime,AWS,DataAPI"/>
+		<Step id="186" name="Plugin Script Step" MinVersion="16" Compatibility="Desktop,Server,iOS,WebDirect,CWP,AWS,DataAPI" InCompatibility="Runtime"/>
+
+		<Step id="187" name="Configure Local Notification" MinVersion="17" Compatibility="iOS" InCompatibility="Server,CWP,WebDirect,Desktop,Runtime,AWS,DataAPI"/>
+
+		<Step id="196" name="Close Data File" MinVersion="18" Compatibility="Desktop,iOS,Server,AWS,DataAPI,CWP" InCompatibility="WebDirect,Runtime"/>
+		<Step id="190" name="Create Data File" MinVersion="18" Compatibility="Desktop,iOS,Server,AWS,DataAPI,CWP" InCompatibility="WebDirect,Runtime"/>
+		<Step id="197" name="Delete File" MinVersion="18" Compatibility="Desktop,iOS,Server,AWS,DataAPI,CWP" InCompatibility="WebDirect,Runtime"/>
+		<Step id="194" name="Get Data File Position" MinVersion="18" Compatibility="Desktop,iOS,Server,AWS,DataAPI,CWP" InCompatibility="WebDirect,Runtime"/>
+		<Step id="188" name="Get File Exists" MinVersion="18" Compatibility="Desktop,iOS,Server,AWS,DataAPI,CWP" InCompatibility="WebDirect,Runtime"/>
+		<Step id="189" name="Get File Size" MinVersion="18" Compatibility="Desktop,iOS,Server,AWS,DataAPI,CWP" InCompatibility="WebDirect,Runtime"/>
+		<Step id="191" name="Open Data File" MinVersion="18" Compatibility="Desktop,iOS,Server,AWS,DataAPI,CWP" InCompatibility="WebDirect,Runtime"/>
+		<Step id="191" name="Open Data File" MinVersion="18" Compatibility="Desktop,iOS,Server,AWS,DataAPI,CWP" InCompatibility="WebDirect,Runtime"/>
+		<Step id="193" name="Read from Data File" MinVersion="18" Compatibility="Desktop,iOS,Server,AWS,DataAPI,CWP" InCompatibility="WebDirect,Runtime"/>
+		<Step id="199" name="Rename File" MinVersion="18" Compatibility="Desktop,iOS,Server,AWS,DataAPI,CWP" InCompatibility="WebDirect,Runtime"/>
+		<Step id="3" name="Save a Copy as XML" MinVersion="18" Compatibility="Desktop,Server" InCompatibility="WebDirect,Runtime,iOS,AWS,DataAPI,CWP"/>
+		<Step id="195" name="Set Data File Position" MinVersion="18" Compatibility="Desktop,iOS,Server,AWS,DataAPI,CWP" InCompatibility="WebDirect,Runtime"/>
+		<Step id="192" name="Write to Data File" MinVersion="18" Compatibility="Desktop,iOS,Server,AWS,DataAPI,CWP" InCompatibility="WebDirect,Runtime"/>
+		<Step id="200" name="Set Error Logging" MinVersion="18" Compatibility="Desktop,iOS,Server,AWS,DataAPI,CWP" InCompatibility="WebDirect,Runtime"/>
+
+		<Step id="201" name="Configure NFC Reading" MinVersion="19.0" Compatibility="iOS" InCompatibility="Desktop,WebDirect,Runtime,Server,AWS,DataAPI,CWP"/>
+		<Step id="202" name="Configure Machine Learning Model" MinVersion="19.0" Compatibility="Desktop,iOS,Server,Mac" InCompatibility="WebDirect,Runtime,AWS,DataAPI,CWP,Windows"/>
+		<Step id="175" name="Perform JavaScript in Web Viewer" MinVersion="19.0" Compatibility="Desktop,WebDirect,iOS" InCompatibility="Runtime,Server,AWS,DataAPI,CWP"/>
+		<Step id="203" name="Execute FileMaker Data API" MinVersion="19.0" Compatibility="Desktop,WebDirect,iOS,Server,AWS,DataAPI,CWP" InCompatibility="Runtime"/>
+
+		<Step id="208" name="Set Session Identifier" MinVersion="19.4" Compatibility="Desktop,WebDirect,iOS,Server,AWS,DataAPI,CWP" InCompatibility="Runtime"/>
+
+		<Step id="205" name="Open Transaction" MinVersion="19.6" Compatibility="Desktop,WebDirect,iOS,Server,AWS,DataAPI,CWP" InCompatibility="Runtime"/>
+		<Step id="206" name="Commit Transaction" MinVersion="19.6" Compatibility="Desktop,WebDirect,iOS,Server,AWS,DataAPI,CWP" InCompatibility="Runtime"/>
+		<Step id="207" name="Revert Transaction" MinVersion="19.6" Compatibility="Desktop,WebDirect,iOS,Server,AWS,DataAPI,CWP" InCompatibility="Runtime"/>
+
+		<Step id="209" name="Set Dictionary" MinVersion="19.6" Compatibility="Desktop" InCompatibility="WebDirect,iOS,Runtime,Server,AWS,DataAPI,CWP"/>
+
+		<Step id="210" name="Perform Script on Server with Callback" MinVersion="20.1" Compatibility="WebDirect,Desktop,iOS" InCompatibility="Runtime,Server,AWS,DataAPI,CWP"/>
+		<Step id="211" name="Trigger Claris Connect Flow" MinVersion="20.1" Compatibility="Desktop,WebDirect,iOS,Server,AWS,DataAPI,CWP" InCompatibility="Runtime"/>
+
 	</StepList>
 </root>

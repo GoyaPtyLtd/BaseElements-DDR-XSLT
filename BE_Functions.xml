@@ -944,6 +944,7 @@
 
 	  <Function name="LayoutIDs" version="7"/>
 	  <Function name="IDModele" version="7"/>
+	  <Function name="IDsModeles" version="7"/>
 	  <Function name="IDFormati" version="7"/>
 
 	  <Function name="LayoutName" version="7"/>
@@ -1437,7 +1438,7 @@
 
 	  <Function name="ScriptIDs" version="7"/>
 	  <Function name="IDScript" version="7"/>
-	  <Function name="IDScript" version="7"/>
+	  <Function name="IDsScripts" version="7"/>
 
 	  <Function name="ScriptName" version="7"/>
 	  <Function name="ScriptNaam" version="7"/>
@@ -1669,6 +1670,7 @@
 
 	  <Function name="TableIDs" version="7"/>
 	  <Function name="IDTable" version="7"/>
+	  <Function name="IDsTables" version="7"/>
 	  <Function name="TabellenIDs" version="7"/>
 	  <Function name="IDTabelle" version="7"/>
 
@@ -1918,6 +1920,7 @@
 
 	  <Function name="ValueListIDs" version="7"/>
 	  <Function name="IDListeValeurs" version="7"/>
+	  <Function name="IDsListesValeurs" version="7"/>
 	  <Function name="WertelistenIDs" version="7"/>
 	  <Function name="IDListaValori" version="7"/>
 
@@ -2385,5 +2388,169 @@
 	  <Function name="Solange" version="18"/>
 	  <Function name="TantQue" version="18"/>
 
+	  <Function name="SystemAppearance" version="19"/>
+	  <Function name="SystemDarstellung" version="19"/>
+	  <Function name="ApparenceSystème" version="19"/>
+	  <Function name="システムの外観" version="19"/>
+	  <Function name="운영 체제 모양" version="19"/>
+	  <Function name="SysteemUiterlijk" version="19"/>
+	  <Function name="Systemutseende" version="19"/>
+	  <Function name="系统外观" version="19"/>
+
+	  <Function name="ComputeModel" version="19"/>
+	  
+	  <Function name="ConvertFromFileMakerPath" version="19"/>
+	  <Function name="ConvertToFileMakerPath" version="19"/>
+	  <Function name="WinPath" version="19"/>
+	  <Function name="PosixPath" version="19"/>
+	  <Function name="URLPath" version="19"/>
+	  
+	  <Function name="FileLocaleElements" version="19.1"/>
+	  <Function name="DateiGebietsschemaElemente" version="19.1"/>
+	  <Function name="ÉlementsLocaleFichier" version="19.1"/>
+	  <Function name="ImpostazioniLocaliFile" version="19.1"/>
+	  <Function name="ファイルロケール要素" version="19.1"/>
+	  <Function name="파일 로케일 요소" version="19.1"/>
+	  <Function name="ElementenBestandslandinstelling" version="19.1"/>
+	  <Function name="FilensSpråkelement" version="19.1"/>
+	  <Function name="文件区域设置元素" version="19.1"/>
+	  
+	  <Function name="SystemLocaleElements" version="19.1"/>
+	  <Function name="SystemGebietsschemaElemente" version="19.1"/>
+	  <Function name="ÉlementsLocaleSystème" version="19.1"/>
+	  <Function name="ImpostazioniLocaliSistema" version="19.1"/>
+	  <Function name="システムロケール要素" version="19.1"/>
+	  <Function name="시스템 로케일 요소" version="19.1"/>
+	  <Function name="ElementenSysteemlandinstelling" version="19.1"/>
+	  <Function name="SystemetsSpråkelement" version="19.1"/>
+	  <Function name="系统区域设置元素" version="19.1"/>
+
+	  <Function name="GetAddonInfo" version="19.2.2"/>
+	  <Function name="HoleAddonInfo" version="19.2.2"/>
+	  <Function name="ObtenirInfoExtension" version="19.2.2"/>
+	  <Function name="GetInfoCompAgg" version="19.2.2"/>
+
+	  <Function name="GetLayoutObjectOwnerInfo" version="19.2.2"/>
+	  <Function name="HoleLayoutobjektEigentümerInfo" version="19.2.2"/>
+	  <Function name="ObtenirInfoProprietaireObjetModele" version="19.2.2"/>
+	  <Function name="GetInfoProprietàOggettoFormato" version="19.2.2"/>
+
+	  <Function name="LayoutObjectUUID" version="19.2.2"/>
+	  <Function name="LayoutobjektUUID" version="19.2.2"/>
+	  <Function name="UUIDObjetModèle" version="19.2.2"/>
+	  <Function name="IDUUOggettoFormato" version="19.2.2"/>
+	  <Function name="레이아웃 대상체 UUID" version="19.2.2"/>
+	  
+	  <Function name="InstalledFMPluginsAsJSON" version="19.2.2"/>
+	  <Function name="InstallierteFMPluginsAlsJSON" version="19.2.2"/>
+	  <Function name="PluginFMInstallatiComeJSON" version="19.2.2"/>
+	  <Function name="FMPluginsInstallésAuFormatJSON" version="19.2.2"/>
+	  <Function name="インストールされた FM プラグインの JSON" version="19.2.2"/>
+	  <Function name="JSON으로 설치된 FM 플러그인" version="19.2.2"/>
+	  <Function name="GeïnstalleerdeFMPluginsAlsJSON" verversion="19.2.2"/>
+	  <Function name="InstalleradeFMPluginSomJSON" version="19.2.2"/>
+	  <Function name="安装的 FM 插件为 JSON" version="19.2.2"/>
+
+	  <Function name="GetModelAttributes" version="19.3.1"/>
+
+	  <Function name="SessionIdentifier" version="19.4.1"/>
+	  <Function name="SitzungsID" version="19.4.1"/>
+	  <Function name="IdentifiantDeSession" version="19.4.1"/>
+	  <Function name="IdentificativoSessione" version="19.4.1"/>
+	  <Function name="セッション識別子" version="19.4.1"/>
+	  <Function name="세션 식별자" version="19.4.1"/>
+	  <Function name="SessieID" version="19.4.1"/>
+	  <Function name="Sessionsidentifierare" version="19.4.1"/>
+	  <Function name="会话标识" version="19.4.1"/>
+
+	  <Function name="ReadQRCode" version="19.5.1"/>
+	  <Function name="LeseQRCode" version="19.5.1"/>
+	  <Function name="LireCodeQR" version="19.5.1"/>
+	  <Function name="LeggiCodiceQR" version="19.5.1"/>
+	  
+	  <Function name="JSONGetElementType" version="19.5.1"/>
+	  
+	  <Function name="GetLiveText" version="19.5.1"/>
+	  <Function name="HoleLiveText" version="19.5.1"/>
+	  <Function name="ObtenirTexteDynamique" version="19.5.1"/>
+	  <Function name="RicavaTestoAttivo" version="19.5.1"/>
+
+	  <Function name="TransactionOpenState" version="19.6.1"/>
+	  <Function name="TransaktionsOffenStatus" version="19.6.1"/>
+	  <Function name="EtatOuvertTransaction" version="19.6.1"/>
+	  <Function name="StatoAperturaTransazione" version="19.6.1"/>
+	  <Function name="トランザクションオープン状態" version="19.6.1"/>
+	  <Function name="처리 열기 상태" version="19.6.1"/>
+	  <Function name="StatusTransactieOpen" version="19.6.1"/>
+	  <Function name="TransaktionÖppenStatus" version="19.6.1"/>
+	  <Function name="事务打开状态" version="19.6.1"/>	  
+
+	  <Function name="CurrentTimeUTCMicroseconds" version="19.6.1"/>
+	  <Function name="SystemUhrzeitUTCMikrosekunden" version="19.6.1"/>
+	  <Function name="HeureActuelleUTCMicrosecondes" version="19.6.1"/>
+	  <Function name="MicrosecondiUTCOraCorrente" version="19.6.1"/>
+	  <Function name="現在の時刻 UTC マイクロ秒" version="19.6.1"/>
+	  <Function name="현재 시간 UTC 마이크로초" version="19.6.1"/>
+	  <Function name="HuidigeTijdUTCMicroseconden" version="19.6.1"/>
+	  <Function name="AktuellTidUTCMikrosekunder" version="19.6.1"/>
+	  <Function name="当前时间 UTC 微秒" version="19.6.1"/>	  
+
+	  <Function name="LastErrorDetail" version="7"/>
+	  <Function name="LetzteFehlerNrDetail" version="7"/>
+	  <Function name="DétailDernièreErreur" version="7"/>
+	  <Function name="DettagliUltimoErrore" version="7"/>
+	  <Function name="最終エラー詳細" version="7"/>
+	  <Function name="마지막 오류 세부 정보" version="7"/>
+	  <Function name="LaatsteFoutGegevens" version="7"/>
+	  <Function name="SenasteFelDetalj" version="7"/>
+	  <Function name="上一个错误详情" version="7"/>
+
+	  <Function name="LastErrorLocation" version="19.6.1"/>
+	  <Function name="LetzteFehlerNrPosition" version="19.6.1"/>
+	  <Function name="EmplacementDernièreErreur" version="19.6.1"/>
+	  <Function name="PosizioneUltimoErrore" version="19.6.1"/>
+	  <Function name="最終エラー位置" version="19.6.1"/>
+	  <Function name="마지막 오류 위치" version="19.6.1"/>
+	  <Function name="LaatsteFoutLocatie" version="19.6.1"/>
+	  <Function name="SenasteFelPlats" version="19.6.1"/>
+	  <Function name="上一个错误位置" version="19.6.1"/>	  
+	  
+	  <Function name="GetBaseTableName" version="20.1.1"/>
+	  <Function name="HoleBasistabellennamen" version="20.1.1"/>
+	  <Function name="ObtenirNomTableBase" version="20.1.1"/>
+	  <Function name="RicavaNomeTabellaBase" version="20.1.1"/>
+  
+	  <Function name="CacheFileName" version="20.1.1"/>
+	  <Function name="CacheDateiname" version="20.1.1"/>
+	  <Function name="NomFichierCache" version="20.1.1"/>
+	  <Function name="NomeFileCache" version="20.1.1"/>
+	  <Function name="キャッシュファイル名" version="20.1.1"/>
+	  <Function name="캐시 파일 이름" version="20.1.1"/>
+	  <Function name="BestandsnaamCache" version="20.1.1"/>
+	  <Function name="CachefilNamn" version="20.1.1"/>
+	  <Function name="缓存文件名" version="20.1.1"/>
+	  
+	  <Function name="CacheFilePath" version="20.1.1"/>
+	  <Function name="CacheDateipfad" version="20.1.1"/>
+	  <Function name="CheminFichierCache" version="20.1.1"/>
+	  <Function name="PercorsoFileCache" version="20.1.1"/>
+	  <Function name="キャッシュファイルパス" version="20.1.1"/>
+	  <Function name="캐시 파일 경로" version="20.1.1"/>
+	  <Function name="BestandspadCache" version="20.1.1"/>
+	  <Function name="CachefilSökväg" version="20.1.1"/>
+	  <Function name="缓存文件路径" version="20.1.1"/>
+
+	  <Function name="BaseTableIDs" version="20.1.1"/>
+	  <Function name="BasistabellenIDs" version="20.1.1"/>
+	  <Function name="IDsTableBase" version="20.1.1"/>
+	  <Function name="IDsTablesBase" version="20.1.1"/>
+	  <Function name="IDTabelleBase" version="20.1.1"/>
+	  
+	  <Function name="BaseTableNames" version="20.1.1"/>
+	  <Function name="Basistabellennamen" version="20.1.1"/>
+	  <Function name="NomsTableBase" version="20.1.1"/>
+	  <Function name="NomsTablesBase" version="20.1.1"/>
+	  <Function name="NomiTabelleBase" version="20.1.1"/>
+	  
 	</FunctionList>
 </root>
